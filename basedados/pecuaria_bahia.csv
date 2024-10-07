@@ -1,0 +1,1663 @@
+,cod_ibge,nm_mun,nfam_estab,fam_estab,nfam_cabecas,fam_cabecas,sisprod
+0,2900108,Abaíra (BA),4,32,49,349,Caprinocultura
+1,2900207,Abaré (BA),109,994,8342,58381,Caprinocultura
+2,2900306,Acajutiba (BA),1,2,0,0,Caprinocultura
+3,2900355,Adustina (BA),20,67,987,677,Caprinocultura
+4,2900405,Água Fria (BA),9,35,164,188,Caprinocultura
+5,2900504,Érico Cardoso (BA),6,30,20,102,Caprinocultura
+6,2900603,Aiquara (BA),1,2,0,0,Caprinocultura
+7,2900702,Alagoinhas (BA),11,30,171,209,Caprinocultura
+8,2900801,Alcobaça (BA),3,4,0,0,Caprinocultura
+9,2900900,Almadina (BA),1,0,0,0,Caprinocultura
+10,2901007,Amargosa (BA),6,15,86,88,Caprinocultura
+11,2901106,Amélia Rodrigues (BA),7,8,73,43,Caprinocultura
+12,2901155,América Dourada (BA),25,114,701,1830,Caprinocultura
+13,2901205,Anagé (BA),43,269,1123,5480,Caprinocultura
+14,2901304,Andaraí (BA),16,21,576,310,Caprinocultura
+15,2901353,Andorinha (BA),233,912,9612,28157,Caprinocultura
+16,2901403,Angical (BA),12,27,210,517,Caprinocultura
+17,2901502,Anguera (BA),5,18,92,257,Caprinocultura
+18,2901601,Antas (BA),9,15,17,94,Caprinocultura
+19,2901700,Antônio Cardoso (BA),27,21,1067,298,Caprinocultura
+20,2901809,Antônio Gonçalves (BA),2,19,0,0,Caprinocultura
+21,2901908,Aporá (BA),7,33,39,209,Caprinocultura
+22,2901957,Apuarema (BA),0,0,0,0,Caprinocultura
+23,2902005,Aracatu (BA),60,185,1582,3763,Caprinocultura
+24,2902054,Araçás (BA),6,8,0,0,Caprinocultura
+25,2902104,Araci (BA),198,641,9710,12068,Caprinocultura
+26,2902203,Aramari (BA),4,10,26,68,Caprinocultura
+27,2902252,Arataca (BA),0,0,0,0,Caprinocultura
+28,2902302,Aratuípe (BA),1,2,0,0,Caprinocultura
+29,2902401,Aurelino Leal (BA),0,1,0,0,Caprinocultura
+30,2902500,Baianópolis (BA),7,19,63,125,Caprinocultura
+31,2902609,Baixa Grande (BA),29,65,1245,1073,Caprinocultura
+32,2902658,Banzaê (BA),2,32,0,0,Caprinocultura
+33,2902708,Barra (BA),32,204,904,2169,Caprinocultura
+34,2902807,Barra da Estiva (BA),17,49,1063,911,Caprinocultura
+35,2902906,Barra do Choça (BA),13,12,311,259,Caprinocultura
+36,2903003,Barra do Mendes (BA),37,73,873,1424,Caprinocultura
+37,2903102,Barra do Rocha (BA),1,2,0,0,Caprinocultura
+38,2903201,Barreiras (BA),34,25,721,288,Caprinocultura
+39,2903235,Barro Alto (BA),27,106,788,1788,Caprinocultura
+40,2903276,Barrocas (BA),16,53,361,875,Caprinocultura
+41,2903300,Barro Preto (BA),4,1,0,0,Caprinocultura
+42,2903409,Belmonte (BA),3,2,0,0,Caprinocultura
+43,2903508,Belo Campo (BA),10,59,110,1232,Caprinocultura
+44,2903607,Biritinga (BA),6,30,0,0,Caprinocultura
+45,2903706,Boa Nova (BA),9,59,550,1160,Caprinocultura
+46,2903805,Boa Vista do Tupim (BA),77,162,2810,2419,Caprinocultura
+47,2903904,Bom Jesus da Lapa (BA),19,83,689,1298,Caprinocultura
+48,2903953,Bom Jesus da Serra (BA),14,152,561,2477,Caprinocultura
+49,2904001,Boninal (BA),12,28,107,180,Caprinocultura
+50,2904050,Bonito (BA),5,4,119,36,Caprinocultura
+51,2904100,Boquira (BA),95,433,1657,8187,Caprinocultura
+52,2904209,Botuporã (BA),4,21,67,219,Caprinocultura
+53,2904308,Brejões (BA),22,20,354,186,Caprinocultura
+54,2904407,Brejolândia (BA),7,13,0,0,Caprinocultura
+55,2904506,Brotas de Macaúbas (BA),4,94,61,3078,Caprinocultura
+56,2904605,Brumado (BA),63,166,1469,3044,Caprinocultura
+57,2904704,Buerarema (BA),1,1,0,0,Caprinocultura
+58,2904753,Buritirama (BA),17,319,312,5498,Caprinocultura
+59,2904803,Caatiba (BA),5,3,145,0,Caprinocultura
+60,2904852,Cabaceiras do Paraguaçu (BA),26,50,1003,471,Caprinocultura
+61,2904902,Cachoeira (BA),22,60,130,508,Caprinocultura
+62,2905008,Caculé (BA),7,28,91,334,Caprinocultura
+63,2905107,Caém (BA),21,58,307,838,Caprinocultura
+64,2905156,Caetanos (BA),144,655,4100,19248,Caprinocultura
+65,2905206,Caetité (BA),25,58,206,316,Caprinocultura
+66,2905305,Cafarnaum (BA),47,172,828,3050,Caprinocultura
+67,2905404,Cairu (BA),0,0,0,0,Caprinocultura
+68,2905503,Caldeirão Grande (BA),4,72,0,0,Caprinocultura
+69,2905602,Camacan (BA),1,1,0,0,Caprinocultura
+70,2905701,Camaçari (BA),34,40,524,489,Caprinocultura
+71,2905800,Camamu (BA),2,2,0,0,Caprinocultura
+72,2905909,Campo Alegre de Lourdes (BA),299,2837,6204,66350,Caprinocultura
+73,2906006,Campo Formoso (BA),328,1322,28490,53588,Caprinocultura
+74,2906105,Canápolis (BA),1,2,0,0,Caprinocultura
+75,2906204,Canarana (BA),42,154,586,2418,Caprinocultura
+76,2906303,Canavieiras (BA),4,4,120,67,Caprinocultura
+77,2906402,Candeal (BA),8,34,354,392,Caprinocultura
+78,2906501,Candeias (BA),8,20,0,0,Caprinocultura
+79,2906600,Candiba (BA),8,27,148,323,Caprinocultura
+80,2906709,Cândido Sales (BA),11,13,367,107,Caprinocultura
+81,2906808,Cansanção (BA),157,599,6144,12360,Caprinocultura
+82,2906824,Canudos (BA),275,694,24157,36096,Caprinocultura
+83,2906857,Capela do Alto Alegre (BA),26,71,654,1202,Caprinocultura
+84,2906873,Capim Grosso (BA),44,144,1852,1906,Caprinocultura
+85,2906899,Caraíbas (BA),69,231,1237,5513,Caprinocultura
+86,2906907,Caravelas (BA),3,4,0,24,Caprinocultura
+87,2907004,Cardeal da Silva (BA),1,1,0,0,Caprinocultura
+88,2907103,Carinhanha (BA),16,58,0,0,Caprinocultura
+89,2907202,Casa Nova (BA),1183,4481,60205,209640,Caprinocultura
+90,2907301,Castro Alves (BA),6,15,292,536,Caprinocultura
+91,2907400,Catolândia (BA),3,5,0,0,Caprinocultura
+92,2907509,Catu (BA),7,12,131,38,Caprinocultura
+93,2907558,Caturama (BA),13,60,327,830,Caprinocultura
+94,2907608,Central (BA),60,200,1299,4541,Caprinocultura
+95,2907707,Chorrochó (BA),43,979,7949,59296,Caprinocultura
+96,2907806,Cícero Dantas (BA),33,124,559,1211,Caprinocultura
+97,2907905,Cipó (BA),14,33,84,293,Caprinocultura
+98,2908002,Coaraci (BA),2,1,0,0,Caprinocultura
+99,2908101,Cocos (BA),4,10,0,0,Caprinocultura
+100,2908200,Conceição da Feira (BA),6,15,57,126,Caprinocultura
+101,2908309,Conceição do Almeida (BA),3,4,0,0,Caprinocultura
+102,2908408,Conceição do Coité (BA),141,564,2343,7998,Caprinocultura
+103,2908507,Conceição do Jacuípe (BA),1,6,0,0,Caprinocultura
+104,2908606,Conde (BA),10,6,164,134,Caprinocultura
+105,2908705,Condeúba (BA),10,33,92,260,Caprinocultura
+106,2908804,Contendas do Sincorá (BA),3,16,260,396,Caprinocultura
+107,2908903,Coração de Maria (BA),20,49,316,288,Caprinocultura
+108,2909000,Cordeiros (BA),3,45,25,410,Caprinocultura
+109,2909109,Coribe (BA),7,21,103,310,Caprinocultura
+110,2909208,Coronel João Sá (BA),22,66,193,576,Caprinocultura
+111,2909307,Correntina (BA),12,14,350,108,Caprinocultura
+112,2909406,Cotegipe (BA),38,85,1017,1788,Caprinocultura
+113,2909505,Cravolândia (BA),1,0,0,0,Caprinocultura
+114,2909604,Crisópolis (BA),6,36,50,228,Caprinocultura
+115,2909703,Cristópolis (BA),6,33,0,0,Caprinocultura
+116,2909802,Cruz das Almas (BA),0,4,0,57,Caprinocultura
+117,2909901,Curaçá (BA),502,2242,43381,155185,Caprinocultura
+118,2910008,Dário Meira (BA),3,4,0,0,Caprinocultura
+119,2910057,Dias d'Ávila (BA),1,6,0,0,Caprinocultura
+120,2910107,Dom Basílio (BA),8,123,84,1753,Caprinocultura
+121,2910206,Dom Macedo Costa (BA),6,1,0,0,Caprinocultura
+122,2910305,Elísio Medrado (BA),2,9,0,0,Caprinocultura
+123,2910404,Encruzilhada (BA),16,22,613,454,Caprinocultura
+124,2910503,Entre Rios (BA),10,5,237,44,Caprinocultura
+125,2910602,Esplanada (BA),8,20,224,176,Caprinocultura
+126,2910701,Euclides da Cunha (BA),113,573,4729,9875,Caprinocultura
+127,2910727,Eunápolis (BA),5,5,0,0,Caprinocultura
+128,2910750,Fátima (BA),7,39,31,180,Caprinocultura
+129,2910776,Feira da Mata (BA),8,14,227,191,Caprinocultura
+130,2910800,Feira de Santana (BA),105,200,1448,1840,Caprinocultura
+131,2910859,Filadélfia (BA),9,55,646,607,Caprinocultura
+132,2910909,Firmino Alves (BA),3,0,87,0,Caprinocultura
+133,2911006,Floresta Azul (BA),0,0,0,0,Caprinocultura
+134,2911105,Formosa do Rio Preto (BA),14,37,351,476,Caprinocultura
+135,2911204,Gandu (BA),2,0,0,0,Caprinocultura
+136,2911253,Gavião (BA),20,107,766,2155,Caprinocultura
+137,2911303,Gentio do Ouro (BA),8,36,294,1052,Caprinocultura
+138,2911402,Glória (BA),98,713,4864,25543,Caprinocultura
+139,2911501,Gongogi (BA),1,1,0,0,Caprinocultura
+140,2911600,Governador Mangabeira (BA),9,8,159,40,Caprinocultura
+141,2911659,Guajeru (BA),10,47,112,458,Caprinocultura
+142,2911709,Guanambi (BA),21,54,649,641,Caprinocultura
+143,2911808,Guaratinga (BA),24,10,568,126,Caprinocultura
+144,2911857,Heliópolis (BA),1,9,0,0,Caprinocultura
+145,2911907,Iaçu (BA),104,106,6352,2041,Caprinocultura
+146,2912004,Ibiassucê (BA),6,35,30,254,Caprinocultura
+147,2912103,Ibicaraí (BA),0,0,0,0,Caprinocultura
+148,2912202,Ibicoara (BA),5,0,15,0,Caprinocultura
+149,2912301,Ibicuí (BA),12,4,0,0,Caprinocultura
+150,2912400,Ibipeba (BA),37,74,1330,1786,Caprinocultura
+151,2912509,Ibipitanga (BA),133,368,2773,7779,Caprinocultura
+152,2912608,Ibiquera (BA),5,17,1110,483,Caprinocultura
+153,2912707,Ibirapitanga (BA),0,0,0,0,Caprinocultura
+154,2912806,Ibirapuã (BA),4,1,0,0,Caprinocultura
+155,2912905,Ibirataia (BA),0,0,0,0,Caprinocultura
+156,2913002,Ibitiara (BA),139,296,3013,7835,Caprinocultura
+157,2913101,Ibititá (BA),28,67,489,1156,Caprinocultura
+158,2913200,Ibotirama (BA),18,26,723,193,Caprinocultura
+159,2913309,Ichu (BA),3,9,0,0,Caprinocultura
+160,2913408,Igaporã (BA),7,8,72,40,Caprinocultura
+161,2913457,Igrapiúna (BA),1,0,0,0,Caprinocultura
+162,2913507,Iguaí (BA),6,3,0,0,Caprinocultura
+163,2913606,Ilhéus (BA),9,11,184,112,Caprinocultura
+164,2913705,Inhambupe (BA),9,21,82,130,Caprinocultura
+165,2913804,Ipecaetá (BA),59,142,1551,1457,Caprinocultura
+166,2913903,Ipiaú (BA),1,5,0,0,Caprinocultura
+167,2914000,Ipirá (BA),119,329,5838,4721,Caprinocultura
+168,2914109,Ipupiara (BA),11,46,416,1092,Caprinocultura
+169,2914208,Irajuba (BA),3,3,0,293,Caprinocultura
+170,2914307,Iramaia (BA),10,37,180,968,Caprinocultura
+171,2914406,Iraquara (BA),21,116,310,1126,Caprinocultura
+172,2914505,Irará (BA),11,33,105,149,Caprinocultura
+173,2914604,Irecê (BA),11,21,369,286,Caprinocultura
+174,2914653,Itabela (BA),16,1,0,0,Caprinocultura
+175,2914703,Itaberaba (BA),90,132,5226,2081,Caprinocultura
+176,2914802,Itabuna (BA),1,1,0,0,Caprinocultura
+177,2914901,Itacaré (BA),1,4,0,0,Caprinocultura
+178,2915007,Itaeté (BA),17,21,888,509,Caprinocultura
+179,2915106,Itagi (BA),3,2,0,0,Caprinocultura
+180,2915205,Itagibá (BA),12,2,0,0,Caprinocultura
+181,2915304,Itagimirim (BA),4,0,290,0,Caprinocultura
+182,2915353,Itaguaçu da Bahia (BA),123,416,8770,18569,Caprinocultura
+183,2915403,Itaju do Colônia (BA),10,8,570,122,Caprinocultura
+184,2915502,Itajuípe (BA),1,0,0,0,Caprinocultura
+185,2915601,Itamaraju (BA),10,7,0,0,Caprinocultura
+186,2915700,Itamari (BA),0,1,0,0,Caprinocultura
+187,2915809,Itambé (BA),19,30,804,655,Caprinocultura
+188,2915908,Itanagra (BA),4,5,0,0,Caprinocultura
+189,2916005,Itanhém (BA),8,14,138,126,Caprinocultura
+190,2916104,Itaparica (BA),0,3,0,51,Caprinocultura
+191,2916203,Itapé (BA),5,0,179,0,Caprinocultura
+192,2916302,Itapebi (BA),4,1,0,0,Caprinocultura
+193,2916401,Itapetinga (BA),24,4,0,0,Caprinocultura
+194,2916500,Itapicuru (BA),24,46,469,226,Caprinocultura
+195,2916609,Itapitanga (BA),4,0,126,0,Caprinocultura
+196,2916708,Itaquara (BA),1,3,0,0,Caprinocultura
+197,2916807,Itarantim (BA),19,8,352,80,Caprinocultura
+198,2916856,Itatim (BA),80,134,1951,2214,Caprinocultura
+199,2916906,Itiruçu (BA),1,2,0,0,Caprinocultura
+200,2917003,Itiúba (BA),58,457,2247,8853,Caprinocultura
+201,2917102,Itororó (BA),3,5,110,80,Caprinocultura
+202,2917201,Ituaçu (BA),27,87,806,1513,Caprinocultura
+203,2917300,Ituberá (BA),0,4,0,8,Caprinocultura
+204,2917334,Iuiu (BA),14,25,2150,397,Caprinocultura
+205,2917359,Jaborandi (BA),5,4,0,0,Caprinocultura
+206,2917409,Jacaraci (BA),4,24,29,199,Caprinocultura
+207,2917508,Jacobina (BA),42,132,1606,1549,Caprinocultura
+208,2917607,Jaguaquara (BA),5,4,152,35,Caprinocultura
+209,2917706,Jaguarari (BA),155,811,12071,35689,Caprinocultura
+210,2917805,Jaguaripe (BA),5,4,81,15,Caprinocultura
+211,2917904,Jandaíra (BA),1,1,0,0,Caprinocultura
+212,2918001,Jequié (BA),28,40,1468,1155,Caprinocultura
+213,2918100,Jeremoabo (BA),73,365,3698,12025,Caprinocultura
+214,2918209,Jiquiriçá (BA),3,5,0,0,Caprinocultura
+215,2918308,Jitaúna (BA),1,0,0,0,Caprinocultura
+216,2918357,João Dourado (BA),20,120,631,3030,Caprinocultura
+217,2918407,Juazeiro (BA),1066,1999,57294,106529,Caprinocultura
+218,2918456,Jucuruçu (BA),10,4,275,36,Caprinocultura
+219,2918506,Jussara (BA),54,186,8135,7453,Caprinocultura
+220,2918555,Jussari (BA),2,0,0,0,Caprinocultura
+221,2918605,Jussiape (BA),0,2,0,0,Caprinocultura
+222,2918704,Lafaiete Coutinho (BA),2,0,0,0,Caprinocultura
+223,2918753,Lagoa Real (BA),13,45,126,595,Caprinocultura
+224,2918803,Laje (BA),9,10,133,73,Caprinocultura
+225,2918902,Lajedão (BA),3,4,0,0,Caprinocultura
+226,2919009,Lajedinho (BA),17,23,1013,204,Caprinocultura
+227,2919058,Lajedo do Tabocal (BA),0,10,0,53,Caprinocultura
+228,2919108,Lamarão (BA),7,18,0,0,Caprinocultura
+229,2919157,Lapão (BA),22,67,355,913,Caprinocultura
+230,2919207,Lauro de Freitas (BA),4,1,0,0,Caprinocultura
+231,2919306,Lençóis (BA),2,2,0,0,Caprinocultura
+232,2919405,Licínio de Almeida (BA),5,11,128,96,Caprinocultura
+233,2919504,Livramento de Nossa Senhora (BA),17,126,798,3916,Caprinocultura
+234,2919553,Luís Eduardo Magalhães (BA),14,18,2919,224,Caprinocultura
+235,2919603,Macajuba (BA),13,19,362,294,Caprinocultura
+236,2919702,Macarani (BA),10,1,0,0,Caprinocultura
+237,2919801,Macaúbas (BA),42,134,706,1981,Caprinocultura
+238,2919900,Macururé (BA),188,759,10992,51214,Caprinocultura
+239,2919959,Maetinga (BA),25,94,397,1347,Caprinocultura
+240,2920007,Maiquinique (BA),12,5,192,0,Caprinocultura
+241,2920106,Mairi (BA),19,51,188,456,Caprinocultura
+242,2920205,Malhada (BA),11,41,612,982,Caprinocultura
+243,2920304,Malhada de Pedras (BA),24,45,269,838,Caprinocultura
+244,2920403,Manoel Vitorino (BA),55,176,3868,6145,Caprinocultura
+245,2920452,Mansidão (BA),12,86,318,1123,Caprinocultura
+246,2920502,Maracás (BA),32,40,2581,831,Caprinocultura
+247,2920601,Maragogipe (BA),5,10,57,42,Caprinocultura
+248,2920700,Maraú (BA),1,2,0,0,Caprinocultura
+249,2920809,Marcionílio Souza (BA),20,52,1292,1301,Caprinocultura
+250,2920908,Mascote (BA),5,1,0,0,Caprinocultura
+251,2921005,Mata de São João (BA),4,2,0,0,Caprinocultura
+252,2921054,Matina (BA),0,6,0,33,Caprinocultura
+253,2921104,Medeiros Neto (BA),5,10,87,204,Caprinocultura
+254,2921203,Miguel Calmon (BA),51,84,1814,1528,Caprinocultura
+255,2921302,Milagres (BA),16,27,1234,738,Caprinocultura
+256,2921401,Mirangaba (BA),17,123,982,2889,Caprinocultura
+257,2921450,Mirante (BA),76,232,4081,6771,Caprinocultura
+258,2921500,Monte Santo (BA),465,2674,16548,62715,Caprinocultura
+259,2921609,Morpará (BA),9,15,256,536,Caprinocultura
+260,2921708,Morro do Chapéu (BA),38,157,1425,4246,Caprinocultura
+261,2921807,Mortugaba (BA),11,18,39,79,Caprinocultura
+262,2921906,Mucugê (BA),6,14,0,0,Caprinocultura
+263,2922003,Mucuri (BA),8,5,501,140,Caprinocultura
+264,2922052,Mulungu do Morro (BA),63,165,892,3131,Caprinocultura
+265,2922102,Mundo Novo (BA),16,20,234,270,Caprinocultura
+266,2922201,Muniz Ferreira (BA),1,9,0,0,Caprinocultura
+267,2922250,Muquém do São Francisco (BA),28,82,1500,1594,Caprinocultura
+268,2922300,Muritiba (BA),4,9,0,0,Caprinocultura
+269,2922409,Mutuípe (BA),1,2,0,0,Caprinocultura
+270,2922508,Nazaré (BA),5,5,37,19,Caprinocultura
+271,2922607,Nilo Peçanha (BA),0,1,0,0,Caprinocultura
+272,2922656,Nordestina (BA),88,321,3479,5998,Caprinocultura
+273,2922706,Nova Canaã (BA),3,5,0,0,Caprinocultura
+274,2922730,Nova Fátima (BA),25,85,597,1226,Caprinocultura
+275,2922755,Nova Ibiá (BA),0,1,0,0,Caprinocultura
+276,2922805,Nova Itarana (BA),14,24,355,348,Caprinocultura
+277,2922854,Nova Redenção (BA),10,20,403,208,Caprinocultura
+278,2922904,Nova Soure (BA),20,51,0,0,Caprinocultura
+279,2923001,Nova Viçosa (BA),2,5,0,0,Caprinocultura
+280,2923035,Novo Horizonte (BA),6,19,182,201,Caprinocultura
+281,2923050,Novo Triunfo (BA),17,52,119,400,Caprinocultura
+282,2923100,Olindina (BA),16,19,945,169,Caprinocultura
+283,2923209,Oliveira dos Brejinhos (BA),104,429,4378,16280,Caprinocultura
+284,2923308,Ouriçangas (BA),2,3,0,0,Caprinocultura
+285,2923357,Ourolândia (BA),94,274,4003,7750,Caprinocultura
+286,2923407,Palmas de Monte Alto (BA),23,54,1631,1455,Caprinocultura
+287,2923506,Palmeiras (BA),2,11,0,0,Caprinocultura
+288,2923605,Paramirim (BA),16,51,141,728,Caprinocultura
+289,2923704,Paratinga (BA),9,98,92,989,Caprinocultura
+290,2923803,Paripiranga (BA),20,101,74,533,Caprinocultura
+291,2923902,Pau Brasil (BA),1,1,0,0,Caprinocultura
+292,2924009,Paulo Afonso (BA),65,282,1693,8569,Caprinocultura
+293,2924058,Pé de Serra (BA),32,104,570,1223,Caprinocultura
+294,2924108,Pedrão (BA),1,8,0,0,Caprinocultura
+295,2924207,Pedro Alexandre (BA),32,51,0,0,Caprinocultura
+296,2924306,Piatã (BA),9,57,56,307,Caprinocultura
+297,2924405,Pilão Arcado (BA),165,2909,5676,77685,Caprinocultura
+298,2924504,Pindaí (BA),25,45,242,634,Caprinocultura
+299,2924603,Pindobaçu (BA),16,24,151,314,Caprinocultura
+300,2924652,Pintadas (BA),24,56,0,0,Caprinocultura
+301,2924678,Piraí do Norte (BA),1,0,0,0,Caprinocultura
+302,2924702,Piripá (BA),13,47,103,463,Caprinocultura
+303,2924801,Piritiba (BA),28,24,0,0,Caprinocultura
+304,2924900,Planaltino (BA),10,51,247,831,Caprinocultura
+305,2925006,Planalto (BA),11,37,337,392,Caprinocultura
+306,2925105,Poções (BA),24,116,556,1786,Caprinocultura
+307,2925204,Pojuca (BA),2,11,0,0,Caprinocultura
+308,2925253,Ponto Novo (BA),14,89,504,1172,Caprinocultura
+309,2925303,Porto Seguro (BA),13,3,373,10,Caprinocultura
+310,2925402,Potiraguá (BA),10,1,0,0,Caprinocultura
+311,2925501,Prado (BA),4,4,128,0,Caprinocultura
+312,2925600,Presidente Dutra (BA),12,74,218,1167,Caprinocultura
+313,2925709,Presidente Jânio Quadros (BA),8,119,238,1339,Caprinocultura
+314,2925758,Presidente Tancredo Neves (BA),3,4,25,20,Caprinocultura
+315,2925808,Queimadas (BA),161,343,7550,6190,Caprinocultura
+316,2925907,Quijingue (BA),156,849,3756,15220,Caprinocultura
+317,2925931,Quixabeira (BA),27,118,451,1757,Caprinocultura
+318,2925956,Rafael Jambeiro (BA),104,166,5034,2404,Caprinocultura
+319,2926004,Remanso (BA),254,2001,14020,67402,Caprinocultura
+320,2926103,Retirolândia (BA),68,183,2071,2678,Caprinocultura
+321,2926202,Riachão das Neves (BA),23,40,801,816,Caprinocultura
+322,2926301,Riachão do Jacuípe (BA),72,142,2380,1621,Caprinocultura
+323,2926400,Riacho de Santana (BA),12,43,408,770,Caprinocultura
+324,2926509,Ribeira do Amparo (BA),12,65,124,514,Caprinocultura
+325,2926608,Ribeira do Pombal (BA),17,95,362,928,Caprinocultura
+326,2926657,Ribeirão do Largo (BA),6,2,193,0,Caprinocultura
+327,2926707,Rio de Contas (BA),4,12,32,109,Caprinocultura
+328,2926806,Rio do Antônio (BA),20,72,299,545,Caprinocultura
+329,2926905,Rio do Pires (BA),8,34,113,534,Caprinocultura
+330,2927002,Rio Real (BA),3,10,17,50,Caprinocultura
+331,2927101,Rodelas (BA),37,103,1989,5635,Caprinocultura
+332,2927200,Ruy Barbosa (BA),28,46,1751,605,Caprinocultura
+333,2927309,Salinas da Margarida (BA),1,0,0,0,Caprinocultura
+334,2927408,Salvador (BA),1,0,0,0,Caprinocultura
+335,2927507,Santa Bárbara (BA),17,33,596,258,Caprinocultura
+336,2927606,Santa Brígida (BA),30,118,385,1248,Caprinocultura
+337,2927705,Santa Cruz Cabrália (BA),1,3,0,41,Caprinocultura
+338,2927804,Santa Cruz da Vitória (BA),2,1,0,0,Caprinocultura
+339,2927903,Santa Inês (BA),4,8,172,93,Caprinocultura
+340,2928000,Santaluz (BA),203,587,12404,11521,Caprinocultura
+341,2928059,Santa Luzia (BA),0,0,0,0,Caprinocultura
+342,2928109,Santa Maria da Vitória (BA),12,12,217,107,Caprinocultura
+343,2928208,Santana (BA),8,20,485,333,Caprinocultura
+344,2928307,Santanópolis (BA),3,28,0,0,Caprinocultura
+345,2928406,Santa Rita de Cássia (BA),54,162,1153,2647,Caprinocultura
+346,2928505,Santa Terezinha (BA),15,51,1084,930,Caprinocultura
+347,2928604,Santo Amaro (BA),9,34,116,250,Caprinocultura
+348,2928703,Santo Antônio de Jesus (BA),9,13,523,61,Caprinocultura
+349,2928802,Santo Estêvão (BA),28,71,459,567,Caprinocultura
+350,2928901,São Desidério (BA),6,32,170,433,Caprinocultura
+351,2928950,São Domingos (BA),45,142,1781,2982,Caprinocultura
+352,2929008,São Félix (BA),1,18,0,0,Caprinocultura
+353,2929057,São Félix do Coribe (BA),14,27,1427,266,Caprinocultura
+354,2929107,São Felipe (BA),3,13,31,58,Caprinocultura
+355,2929206,São Francisco do Conde (BA),4,7,0,0,Caprinocultura
+356,2929255,São Gabriel (BA),77,300,2429,9916,Caprinocultura
+357,2929305,São Gonçalo dos Campos (BA),18,31,113,197,Caprinocultura
+358,2929354,São José da Vitória (BA),0,1,0,0,Caprinocultura
+359,2929370,São José do Jacuípe (BA),37,111,696,1654,Caprinocultura
+360,2929404,São Miguel das Matas (BA),0,4,0,15,Caprinocultura
+361,2929503,São Sebastião do Passé (BA),12,17,263,176,Caprinocultura
+362,2929602,Sapeaçu (BA),7,21,0,0,Caprinocultura
+363,2929701,Sátiro Dias (BA),16,38,0,0,Caprinocultura
+364,2929750,Saubara (BA),0,1,0,0,Caprinocultura
+365,2929800,Saúde (BA),8,25,419,314,Caprinocultura
+366,2929909,Seabra (BA),14,57,287,458,Caprinocultura
+367,2930006,Sebastião Laranjeiras (BA),9,18,459,472,Caprinocultura
+368,2930105,Senhor do Bonfim (BA),19,92,1047,1289,Caprinocultura
+369,2930154,Serra do Ramalho (BA),26,100,1044,1703,Caprinocultura
+370,2930204,Sento Sé (BA),80,1089,9228,62447,Caprinocultura
+371,2930303,Serra Dourada (BA),5,18,74,170,Caprinocultura
+372,2930402,Serra Preta (BA),24,52,367,435,Caprinocultura
+373,2930501,Serrinha (BA),72,128,1367,1486,Caprinocultura
+374,2930600,Serrolândia (BA),7,48,64,393,Caprinocultura
+375,2930709,Simões Filho (BA),5,13,33,119,Caprinocultura
+376,2930758,Sítio do Mato (BA),9,58,625,650,Caprinocultura
+377,2930766,Sítio do Quinto (BA),5,55,0,0,Caprinocultura
+378,2930774,Sobradinho (BA),62,101,10281,8409,Caprinocultura
+379,2930808,Souto Soares (BA),35,98,676,1273,Caprinocultura
+380,2930907,Tabocas do Brejo Velho (BA),2,15,0,0,Caprinocultura
+381,2931004,Tanhaçu (BA),51,202,1867,4346,Caprinocultura
+382,2931053,Tanque Novo (BA),9,73,118,752,Caprinocultura
+383,2931103,Tanquinho (BA),12,16,270,127,Caprinocultura
+384,2931202,Taperoá (BA),2,2,0,0,Caprinocultura
+385,2931301,Tapiramutá (BA),1,4,0,0,Caprinocultura
+386,2931350,Teixeira de Freitas (BA),6,4,296,51,Caprinocultura
+387,2931400,Teodoro Sampaio (BA),4,4,28,60,Caprinocultura
+388,2931509,Teofilândia (BA),31,105,783,1713,Caprinocultura
+389,2931608,Teolândia (BA),1,2,0,0,Caprinocultura
+390,2931707,Terra Nova (BA),2,5,0,0,Caprinocultura
+391,2931806,Tremedal (BA),14,127,235,2192,Caprinocultura
+392,2931905,Tucano (BA),89,564,4334,10977,Caprinocultura
+393,2932002,Uauá (BA),242,2330,17126,96361,Caprinocultura
+394,2932101,Ubaíra (BA),4,6,104,40,Caprinocultura
+395,2932200,Ubaitaba (BA),0,1,0,0,Caprinocultura
+396,2932309,Ubatã (BA),0,0,0,0,Caprinocultura
+397,2932408,Uibaí (BA),21,109,428,1786,Caprinocultura
+398,2932457,Umburanas (BA),50,104,2095,1973,Caprinocultura
+399,2932507,Una (BA),1,2,0,0,Caprinocultura
+400,2932606,Urandi (BA),8,50,453,1009,Caprinocultura
+401,2932705,Uruçuca (BA),1,0,0,0,Caprinocultura
+402,2932804,Utinga (BA),3,8,40,200,Caprinocultura
+403,2932903,Valença (BA),3,9,40,62,Caprinocultura
+404,2933000,Valente (BA),98,258,2895,5011,Caprinocultura
+405,2933059,Várzea da Roça (BA),18,138,452,1245,Caprinocultura
+406,2933109,Várzea do Poço (BA),6,25,48,204,Caprinocultura
+407,2933158,Várzea Nova (BA),43,497,2850,13791,Caprinocultura
+408,2933174,Varzedo (BA),1,7,0,0,Caprinocultura
+409,2933208,Vera Cruz (BA),2,0,0,0,Caprinocultura
+410,2933257,Vereda (BA),3,1,57,0,Caprinocultura
+411,2933307,Vitória da Conquista (BA),96,226,2291,4008,Caprinocultura
+412,2933406,Wagner (BA),2,9,0,0,Caprinocultura
+413,2933455,Wanderley (BA),23,19,647,329,Caprinocultura
+414,2933505,Wenceslau Guimarães (BA),0,1,0,0,Caprinocultura
+415,2933604,Xique-Xique (BA),60,607,1379,14082,Caprinocultura
+416,2900108,Abaíra (BA),51,478,1,11,Avicultura (Frango)
+417,2900207,Abaré (BA),90,751,2,11,Avicultura (Frango)
+418,2900306,Acajutiba (BA),9,45,0,2,Avicultura (Frango)
+419,2900355,Adustina (BA),146,666,21,22,Avicultura (Frango)
+420,2900405,Água Fria (BA),229,1089,218,24,Avicultura (Frango)
+421,2900504,Érico Cardoso (BA),129,1268,4,27,Avicultura (Frango)
+422,2900603,Aiquara (BA),55,114,2,3,Avicultura (Frango)
+423,2900702,Alagoinhas (BA),264,1136,482,370,Avicultura (Frango)
+424,2900801,Alcobaça (BA),57,564,2,23,Avicultura (Frango)
+425,2900900,Almadina (BA),42,53,2,2,Avicultura (Frango)
+426,2901007,Amargosa (BA),227,1305,7,37,Avicultura (Frango)
+427,2901106,Amélia Rodrigues (BA),39,107,83,57,Avicultura (Frango)
+428,2901155,América Dourada (BA),120,480,4,13,Avicultura (Frango)
+429,2901205,Anagé (BA),283,1692,7,38,Avicultura (Frango)
+430,2901304,Andaraí (BA),120,432,5,16,Avicultura (Frango)
+431,2901353,Andorinha (BA),360,1241,8,27,Avicultura (Frango)
+432,2901403,Angical (BA),206,765,10,39,Avicultura (Frango)
+433,2901502,Anguera (BA),138,508,3,12,Avicultura (Frango)
+434,2901601,Antas (BA),137,493,3,10,Avicultura (Frango)
+435,2901700,Antônio Cardoso (BA),440,790,9,18,Avicultura (Frango)
+436,2901809,Antônio Gonçalves (BA),74,311,2,10,Avicultura (Frango)
+437,2901908,Aporá (BA),183,820,124,18,Avicultura (Frango)
+438,2901957,Apuarema (BA),24,64,1,2,Avicultura (Frango)
+439,2902005,Aracatu (BA),476,1531,8,27,Avicultura (Frango)
+440,2902054,Araçás (BA),98,418,44,90,Avicultura (Frango)
+441,2902104,Araci (BA),662,2389,13,49,Avicultura (Frango)
+442,2902203,Aramari (BA),49,510,37,12,Avicultura (Frango)
+443,2902252,Arataca (BA),16,33,1,1,Avicultura (Frango)
+444,2902302,Aratuípe (BA),72,400,2,8,Avicultura (Frango)
+445,2902401,Aurelino Leal (BA),23,28,1,1,Avicultura (Frango)
+446,2902500,Baianópolis (BA),456,1414,16,44,Avicultura (Frango)
+447,2902609,Baixa Grande (BA),501,1599,13,49,Avicultura (Frango)
+448,2902658,Banzaê (BA),59,548,1,12,Avicultura (Frango)
+449,2902708,Barra (BA),93,1420,2,28,Avicultura (Frango)
+450,2902807,Barra da Estiva (BA),307,895,6,17,Avicultura (Frango)
+451,2902906,Barra do Choça (BA),211,432,9,14,Avicultura (Frango)
+452,2903003,Barra do Mendes (BA),190,636,5,17,Avicultura (Frango)
+453,2903102,Barra do Rocha (BA),48,117,2,3,Avicultura (Frango)
+454,2903201,Barreiras (BA),698,968,2435,43,Avicultura (Frango)
+455,2903235,Barro Alto (BA),112,573,4,16,Avicultura (Frango)
+456,2903276,Barrocas (BA),231,534,5,16,Avicultura (Frango)
+457,2903300,Barro Preto (BA),16,27,1,1,Avicultura (Frango)
+458,2903409,Belmonte (BA),53,156,2,6,Avicultura (Frango)
+459,2903508,Belo Campo (BA),79,865,2,25,Avicultura (Frango)
+460,2903607,Biritinga (BA),345,1320,90,74,Avicultura (Frango)
+461,2903706,Boa Nova (BA),79,969,2,21,Avicultura (Frango)
+462,2903805,Boa Vista do Tupim (BA),361,1288,10,33,Avicultura (Frango)
+463,2903904,Bom Jesus da Lapa (BA),387,2092,11,52,Avicultura (Frango)
+464,2903953,Bom Jesus da Serra (BA),95,1172,2,26,Avicultura (Frango)
+465,2904001,Boninal (BA),128,559,2,13,Avicultura (Frango)
+466,2904050,Bonito (BA),62,228,2,6,Avicultura (Frango)
+467,2904100,Boquira (BA),321,1915,5,34,Avicultura (Frango)
+468,2904209,Botuporã (BA),335,1157,7,25,Avicultura (Frango)
+469,2904308,Brejões (BA),142,255,4,7,Avicultura (Frango)
+470,2904407,Brejolândia (BA),275,848,9,27,Avicultura (Frango)
+471,2904506,Brotas de Macaúbas (BA),22,733,0,16,Avicultura (Frango)
+472,2904605,Brumado (BA),748,2170,15,45,Avicultura (Frango)
+473,2904704,Buerarema (BA),28,80,5,2,Avicultura (Frango)
+474,2904753,Buritirama (BA),108,1851,3,42,Avicultura (Frango)
+475,2904803,Caatiba (BA),102,309,3,8,Avicultura (Frango)
+476,2904852,Cabaceiras do Paraguaçu (BA),349,1532,224,193,Avicultura (Frango)
+477,2904902,Cachoeira (BA),115,600,399,361,Avicultura (Frango)
+478,2905008,Caculé (BA),525,1377,14,36,Avicultura (Frango)
+479,2905107,Caém (BA),77,484,3,12,Avicultura (Frango)
+480,2905156,Caetanos (BA),281,1255,5,23,Avicultura (Frango)
+481,2905206,Caetité (BA),721,3086,52,81,Avicultura (Frango)
+482,2905305,Cafarnaum (BA),173,600,4,17,Avicultura (Frango)
+483,2905404,Cairu (BA),2,1,0,0,Avicultura (Frango)
+484,2905503,Caldeirão Grande (BA),33,550,1,15,Avicultura (Frango)
+485,2905602,Camacan (BA),18,49,1,2,Avicultura (Frango)
+486,2905701,Camaçari (BA),225,384,15,28,Avicultura (Frango)
+487,2905800,Camamu (BA),65,442,2,11,Avicultura (Frango)
+488,2905909,Campo Alegre de Lourdes (BA),444,4073,9,85,Avicultura (Frango)
+489,2906006,Campo Formoso (BA),510,3053,13,75,Avicultura (Frango)
+490,2906105,Canápolis (BA),211,1101,7,30,Avicultura (Frango)
+491,2906204,Canarana (BA),185,762,6,24,Avicultura (Frango)
+492,2906303,Canavieiras (BA),43,134,3,7,Avicultura (Frango)
+493,2906402,Candeal (BA),155,508,4,12,Avicultura (Frango)
+494,2906501,Candeias (BA),42,166,1,6,Avicultura (Frango)
+495,2906600,Candiba (BA),274,1077,8,35,Avicultura (Frango)
+496,2906709,Cândido Sales (BA),316,703,8,20,Avicultura (Frango)
+497,2906808,Cansanção (BA),308,1381,6,26,Avicultura (Frango)
+498,2906824,Canudos (BA),231,656,5,15,Avicultura (Frango)
+499,2906857,Capela do Alto Alegre (BA),145,506,3,11,Avicultura (Frango)
+500,2906873,Capim Grosso (BA),180,632,53,18,Avicultura (Frango)
+501,2906899,Caraíbas (BA),310,993,8,24,Avicultura (Frango)
+502,2906907,Caravelas (BA),112,442,4,16,Avicultura (Frango)
+503,2907004,Cardeal da Silva (BA),39,80,2,3,Avicultura (Frango)
+504,2907103,Carinhanha (BA),264,1613,8,51,Avicultura (Frango)
+505,2907202,Casa Nova (BA),1095,4203,20,73,Avicultura (Frango)
+506,2907301,Castro Alves (BA),12,701,0,19,Avicultura (Frango)
+507,2907400,Catolândia (BA),88,343,3,12,Avicultura (Frango)
+508,2907509,Catu (BA),159,399,22,11,Avicultura (Frango)
+509,2907558,Caturama (BA),130,1011,2,22,Avicultura (Frango)
+510,2907608,Central (BA),62,211,2,8,Avicultura (Frango)
+511,2907707,Chorrochó (BA),31,786,1,12,Avicultura (Frango)
+512,2907806,Cícero Dantas (BA),289,1739,114,41,Avicultura (Frango)
+513,2907905,Cipó (BA),161,580,4,10,Avicultura (Frango)
+514,2908002,Coaraci (BA),6,14,0,1,Avicultura (Frango)
+515,2908101,Cocos (BA),189,1264,8,46,Avicultura (Frango)
+516,2908200,Conceição da Feira (BA),139,427,2900,534,Avicultura (Frango)
+517,2908309,Conceição do Almeida (BA),130,545,4,70,Avicultura (Frango)
+518,2908408,Conceição do Coité (BA),825,2753,18,71,Avicultura (Frango)
+519,2908507,Conceição do Jacuípe (BA),38,183,317,257,Avicultura (Frango)
+520,2908606,Conde (BA),174,258,6,10,Avicultura (Frango)
+521,2908705,Condeúba (BA),418,1963,11,47,Avicultura (Frango)
+522,2908804,Contendas do Sincorá (BA),17,45,0,1,Avicultura (Frango)
+523,2908903,Coração de Maria (BA),322,1509,378,433,Avicultura (Frango)
+524,2909000,Cordeiros (BA),197,996,5,24,Avicultura (Frango)
+525,2909109,Coribe (BA),125,1307,5,44,Avicultura (Frango)
+526,2909208,Coronel João Sá (BA),441,1121,8,23,Avicultura (Frango)
+527,2909307,Correntina (BA),614,2437,21,78,Avicultura (Frango)
+528,2909406,Cotegipe (BA),365,1278,14,46,Avicultura (Frango)
+529,2909505,Cravolândia (BA),2,28,0,0,Avicultura (Frango)
+530,2909604,Crisópolis (BA),210,1688,4,31,Avicultura (Frango)
+531,2909703,Cristópolis (BA),118,980,5,38,Avicultura (Frango)
+532,2909802,Cruz das Almas (BA),10,161,1,47,Avicultura (Frango)
+533,2909901,Curaçá (BA),309,1696,9,30,Avicultura (Frango)
+534,2910008,Dário Meira (BA),77,205,2,6,Avicultura (Frango)
+535,2910057,Dias d'Ávila (BA),23,56,2,4,Avicultura (Frango)
+536,2910107,Dom Basílio (BA),51,622,1,13,Avicultura (Frango)
+537,2910206,Dom Macedo Costa (BA),73,226,2,7,Avicultura (Frango)
+538,2910305,Elísio Medrado (BA),146,536,4,15,Avicultura (Frango)
+539,2910404,Encruzilhada (BA),203,584,6,17,Avicultura (Frango)
+540,2910503,Entre Rios (BA),125,236,1808,9,Avicultura (Frango)
+541,2910602,Esplanada (BA),275,677,8,21,Avicultura (Frango)
+542,2910701,Euclides da Cunha (BA),523,2984,15,61,Avicultura (Frango)
+543,2910727,Eunápolis (BA),57,183,3,8,Avicultura (Frango)
+544,2910750,Fátima (BA),177,1009,20,23,Avicultura (Frango)
+545,2910776,Feira da Mata (BA),239,769,10,29,Avicultura (Frango)
+546,2910800,Feira de Santana (BA),2486,4387,1363,759,Avicultura (Frango)
+547,2910859,Filadélfia (BA),149,722,4,17,Avicultura (Frango)
+548,2910909,Firmino Alves (BA),41,86,2,3,Avicultura (Frango)
+549,2911006,Floresta Azul (BA),11,76,0,2,Avicultura (Frango)
+550,2911105,Formosa do Rio Preto (BA),275,798,18,33,Avicultura (Frango)
+551,2911204,Gandu (BA),31,126,1,4,Avicultura (Frango)
+552,2911253,Gavião (BA),46,243,1,5,Avicultura (Frango)
+553,2911303,Gentio do Ouro (BA),34,176,1,5,Avicultura (Frango)
+554,2911402,Glória (BA),39,200,254,11,Avicultura (Frango)
+555,2911501,Gongogi (BA),16,67,0,1,Avicultura (Frango)
+556,2911600,Governador Mangabeira (BA),293,1110,197,226,Avicultura (Frango)
+557,2911659,Guajeru (BA),255,1299,6,29,Avicultura (Frango)
+558,2911709,Guanambi (BA),532,2591,20,77,Avicultura (Frango)
+559,2911808,Guaratinga (BA),241,965,9,30,Avicultura (Frango)
+560,2911857,Heliópolis (BA),94,831,2,17,Avicultura (Frango)
+561,2911907,Iaçu (BA),330,639,8,15,Avicultura (Frango)
+562,2912004,Ibiassucê (BA),281,1050,7,29,Avicultura (Frango)
+563,2912103,Ibicaraí (BA),11,10,1,0,Avicultura (Frango)
+564,2912202,Ibicoara (BA),134,296,3,7,Avicultura (Frango)
+565,2912301,Ibicuí (BA),162,286,5,9,Avicultura (Frango)
+566,2912400,Ibipeba (BA),158,481,5,16,Avicultura (Frango)
+567,2912509,Ibipitanga (BA),309,1210,5,22,Avicultura (Frango)
+568,2912608,Ibiquera (BA),54,308,1,7,Avicultura (Frango)
+569,2912707,Ibirapitanga (BA),120,426,6,11,Avicultura (Frango)
+570,2912806,Ibirapuã (BA),36,133,2,6,Avicultura (Frango)
+571,2912905,Ibirataia (BA),37,128,1,4,Avicultura (Frango)
+572,2913002,Ibitiara (BA),263,1187,3,18,Avicultura (Frango)
+573,2913101,Ibititá (BA),100,386,4,20,Avicultura (Frango)
+574,2913200,Ibotirama (BA),197,894,6,23,Avicultura (Frango)
+575,2913309,Ichu (BA),86,221,2,6,Avicultura (Frango)
+576,2913408,Igaporã (BA),322,883,9,28,Avicultura (Frango)
+577,2913457,Igrapiúna (BA),42,187,2,4,Avicultura (Frango)
+578,2913507,Iguaí (BA),59,310,3,11,Avicultura (Frango)
+579,2913606,Ilhéus (BA),249,524,10,18,Avicultura (Frango)
+580,2913705,Inhambupe (BA),726,1783,18,43,Avicultura (Frango)
+581,2913804,Ipecaetá (BA),502,2031,9,35,Avicultura (Frango)
+582,2913903,Ipiaú (BA),45,134,2,18,Avicultura (Frango)
+583,2914000,Ipirá (BA),911,3846,19,77,Avicultura (Frango)
+584,2914109,Ipupiara (BA),85,540,2,15,Avicultura (Frango)
+585,2914208,Irajuba (BA),19,91,0,2,Avicultura (Frango)
+586,2914307,Iramaia (BA),142,389,3,9,Avicultura (Frango)
+587,2914406,Iraquara (BA),274,1095,7,29,Avicultura (Frango)
+588,2914505,Irará (BA),315,2147,306,529,Avicultura (Frango)
+589,2914604,Irecê (BA),79,190,64,7,Avicultura (Frango)
+590,2914653,Itabela (BA),71,58,4,3,Avicultura (Frango)
+591,2914703,Itaberaba (BA),481,1547,16,47,Avicultura (Frango)
+592,2914802,Itabuna (BA),98,232,3,8,Avicultura (Frango)
+593,2914901,Itacaré (BA),124,508,3,16,Avicultura (Frango)
+594,2915007,Itaeté (BA),107,500,3,14,Avicultura (Frango)
+595,2915106,Itagi (BA),18,85,0,3,Avicultura (Frango)
+596,2915205,Itagibá (BA),112,253,4,8,Avicultura (Frango)
+597,2915304,Itagimirim (BA),5,18,0,1,Avicultura (Frango)
+598,2915353,Itaguaçu da Bahia (BA),159,416,5,12,Avicultura (Frango)
+599,2915403,Itaju do Colônia (BA),72,96,3,3,Avicultura (Frango)
+600,2915502,Itajuípe (BA),20,64,1,2,Avicultura (Frango)
+601,2915601,Itamaraju (BA),263,589,9,21,Avicultura (Frango)
+602,2915700,Itamari (BA),13,63,1,2,Avicultura (Frango)
+603,2915809,Itambé (BA),286,545,10,18,Avicultura (Frango)
+604,2915908,Itanagra (BA),85,139,3,5,Avicultura (Frango)
+605,2916005,Itanhém (BA),139,471,6,19,Avicultura (Frango)
+606,2916104,Itaparica (BA),2,26,0,0,Avicultura (Frango)
+607,2916203,Itapé (BA),56,52,4,3,Avicultura (Frango)
+608,2916302,Itapebi (BA),5,4,0,0,Avicultura (Frango)
+609,2916401,Itapetinga (BA),106,115,4,5,Avicultura (Frango)
+610,2916500,Itapicuru (BA),402,1169,12,27,Avicultura (Frango)
+611,2916609,Itapitanga (BA),9,11,0,0,Avicultura (Frango)
+612,2916708,Itaquara (BA),11,77,8,2,Avicultura (Frango)
+613,2916807,Itarantim (BA),139,109,11,9,Avicultura (Frango)
+614,2916856,Itatim (BA),165,323,5,9,Avicultura (Frango)
+615,2916906,Itiruçu (BA),31,60,1,2,Avicultura (Frango)
+616,2917003,Itiúba (BA),164,1811,4,36,Avicultura (Frango)
+617,2917102,Itororó (BA),34,126,1,4,Avicultura (Frango)
+618,2917201,Ituaçu (BA),202,774,4,13,Avicultura (Frango)
+619,2917300,Ituberá (BA),3,110,0,3,Avicultura (Frango)
+620,2917334,Iuiu (BA),143,508,3,13,Avicultura (Frango)
+621,2917359,Jaborandi (BA),103,1050,6,44,Avicultura (Frango)
+622,2917409,Jacaraci (BA),287,1842,6,45,Avicultura (Frango)
+623,2917508,Jacobina (BA),233,1233,8,34,Avicultura (Frango)
+624,2917607,Jaguaquara (BA),89,526,2,11,Avicultura (Frango)
+625,2917706,Jaguarari (BA),171,1081,5,23,Avicultura (Frango)
+626,2917805,Jaguaripe (BA),112,668,5,17,Avicultura (Frango)
+627,2917904,Jandaíra (BA),53,113,2,14,Avicultura (Frango)
+628,2918001,Jequié (BA),193,582,12,17,Avicultura (Frango)
+629,2918100,Jeremoabo (BA),324,2137,9,43,Avicultura (Frango)
+630,2918209,Jiquiriçá (BA),125,737,2,16,Avicultura (Frango)
+631,2918308,Jitaúna (BA),44,184,1,5,Avicultura (Frango)
+632,2918357,João Dourado (BA),87,181,4,6,Avicultura (Frango)
+633,2918407,Juazeiro (BA),812,1453,20,35,Avicultura (Frango)
+634,2918456,Jucuruçu (BA),5,45,0,2,Avicultura (Frango)
+635,2918506,Jussara (BA),93,397,3,12,Avicultura (Frango)
+636,2918555,Jussari (BA),0,4,0,0,Avicultura (Frango)
+637,2918605,Jussiape (BA),18,212,0,4,Avicultura (Frango)
+638,2918704,Lafaiete Coutinho (BA),35,60,36,2,Avicultura (Frango)
+639,2918753,Lagoa Real (BA),326,1512,7,37,Avicultura (Frango)
+640,2918803,Laje (BA),399,1652,35,40,Avicultura (Frango)
+641,2918902,Lajedão (BA),50,134,2,5,Avicultura (Frango)
+642,2919009,Lajedinho (BA),25,126,1,5,Avicultura (Frango)
+643,2919058,Lajedo do Tabocal (BA),23,207,0,5,Avicultura (Frango)
+644,2919108,Lamarão (BA),329,763,7,15,Avicultura (Frango)
+645,2919157,Lapão (BA),174,478,7,17,Avicultura (Frango)
+646,2919207,Lauro de Freitas (BA),8,13,1,1,Avicultura (Frango)
+647,2919306,Lençóis (BA),94,149,3,4,Avicultura (Frango)
+648,2919405,Licínio de Almeida (BA),464,765,12,20,Avicultura (Frango)
+649,2919504,Livramento de Nossa Senhora (BA),126,1708,3,42,Avicultura (Frango)
+650,2919553,Luís Eduardo Magalhães (BA),132,141,135,10,Avicultura (Frango)
+651,2919603,Macajuba (BA),101,485,3,13,Avicultura (Frango)
+652,2919702,Macarani (BA),50,60,3,3,Avicultura (Frango)
+653,2919801,Macaúbas (BA),816,4555,16,96,Avicultura (Frango)
+654,2919900,Macururé (BA),100,501,2,8,Avicultura (Frango)
+655,2919959,Maetinga (BA),101,657,2,15,Avicultura (Frango)
+656,2920007,Maiquinique (BA),65,168,8,13,Avicultura (Frango)
+657,2920106,Mairi (BA),277,1217,8,31,Avicultura (Frango)
+658,2920205,Malhada (BA),179,838,5,23,Avicultura (Frango)
+659,2920304,Malhada de Pedras (BA),409,841,8,20,Avicultura (Frango)
+660,2920403,Manoel Vitorino (BA),129,777,3,17,Avicultura (Frango)
+661,2920452,Mansidão (BA),156,806,6,20,Avicultura (Frango)
+662,2920502,Maracás (BA),194,499,6,12,Avicultura (Frango)
+663,2920601,Maragogipe (BA),270,1461,6,23,Avicultura (Frango)
+664,2920700,Maraú (BA),106,355,3,8,Avicultura (Frango)
+665,2920809,Marcionílio Souza (BA),70,335,1,7,Avicultura (Frango)
+666,2920908,Mascote (BA),49,124,2,4,Avicultura (Frango)
+667,2921005,Mata de São João (BA),39,146,2,7,Avicultura (Frango)
+668,2921054,Matina (BA),82,1077,3,30,Avicultura (Frango)
+669,2921104,Medeiros Neto (BA),83,233,3,8,Avicultura (Frango)
+670,2921203,Miguel Calmon (BA),357,807,9,21,Avicultura (Frango)
+671,2921302,Milagres (BA),36,144,2,4,Avicultura (Frango)
+672,2921401,Mirangaba (BA),23,689,1,13,Avicultura (Frango)
+673,2921450,Mirante (BA),235,1005,4,17,Avicultura (Frango)
+674,2921500,Monte Santo (BA),605,4000,12,77,Avicultura (Frango)
+675,2921609,Morpará (BA),110,390,2,10,Avicultura (Frango)
+676,2921708,Morro do Chapéu (BA),83,608,3,19,Avicultura (Frango)
+677,2921807,Mortugaba (BA),422,1177,11,37,Avicultura (Frango)
+678,2921906,Mucugê (BA),53,254,1,6,Avicultura (Frango)
+679,2922003,Mucuri (BA),43,324,2,13,Avicultura (Frango)
+680,2922052,Mulungu do Morro (BA),336,739,7,18,Avicultura (Frango)
+681,2922102,Mundo Novo (BA),238,652,8,21,Avicultura (Frango)
+682,2922201,Muniz Ferreira (BA),157,321,34,7,Avicultura (Frango)
+683,2922250,Muquém do São Francisco (BA),180,924,6,27,Avicultura (Frango)
+684,2922300,Muritiba (BA),244,633,39,326,Avicultura (Frango)
+685,2922409,Mutuípe (BA),212,1583,5,32,Avicultura (Frango)
+686,2922508,Nazaré (BA),103,271,2,5,Avicultura (Frango)
+687,2922607,Nilo Peçanha (BA),19,141,1,4,Avicultura (Frango)
+688,2922656,Nordestina (BA),122,761,3,14,Avicultura (Frango)
+689,2922706,Nova Canaã (BA),173,782,5,26,Avicultura (Frango)
+690,2922730,Nova Fátima (BA),84,397,2,7,Avicultura (Frango)
+691,2922755,Nova Ibiá (BA),67,291,3,7,Avicultura (Frango)
+692,2922805,Nova Itarana (BA),81,213,3,7,Avicultura (Frango)
+693,2922854,Nova Redenção (BA),88,454,2,11,Avicultura (Frango)
+694,2922904,Nova Soure (BA),444,1627,10,32,Avicultura (Frango)
+695,2923001,Nova Viçosa (BA),16,90,1,4,Avicultura (Frango)
+696,2923035,Novo Horizonte (BA),70,331,1,7,Avicultura (Frango)
+697,2923050,Novo Triunfo (BA),110,413,3,9,Avicultura (Frango)
+698,2923100,Olindina (BA),208,861,5,16,Avicultura (Frango)
+699,2923209,Oliveira dos Brejinhos (BA),321,1731,7,35,Avicultura (Frango)
+700,2923308,Ouriçangas (BA),74,549,3,17,Avicultura (Frango)
+701,2923357,Ourolândia (BA),118,376,4,11,Avicultura (Frango)
+702,2923407,Palmas de Monte Alto (BA),388,1661,9,38,Avicultura (Frango)
+703,2923506,Palmeiras (BA),23,189,1,5,Avicultura (Frango)
+704,2923605,Paramirim (BA),542,1359,13,38,Avicultura (Frango)
+705,2923704,Paratinga (BA),396,2654,8,57,Avicultura (Frango)
+706,2923803,Paripiranga (BA),463,1727,21,89,Avicultura (Frango)
+707,2923902,Pau Brasil (BA),5,183,0,7,Avicultura (Frango)
+708,2924009,Paulo Afonso (BA),86,392,52,39,Avicultura (Frango)
+709,2924058,Pé de Serra (BA),175,967,3,19,Avicultura (Frango)
+710,2924108,Pedrão (BA),26,439,7,11,Avicultura (Frango)
+711,2924207,Pedro Alexandre (BA),461,861,9,20,Avicultura (Frango)
+712,2924306,Piatã (BA),221,1026,5,24,Avicultura (Frango)
+713,2924405,Pilão Arcado (BA),249,3901,5,74,Avicultura (Frango)
+714,2924504,Pindaí (BA),329,1644,9,41,Avicultura (Frango)
+715,2924603,Pindobaçu (BA),192,359,7,14,Avicultura (Frango)
+716,2924652,Pintadas (BA),164,766,4,17,Avicultura (Frango)
+717,2924678,Piraí do Norte (BA),124,201,2,4,Avicultura (Frango)
+718,2924702,Piripá (BA),188,706,7,19,Avicultura (Frango)
+719,2924801,Piritiba (BA),230,556,15,22,Avicultura (Frango)
+720,2924900,Planaltino (BA),43,479,1,13,Avicultura (Frango)
+721,2925006,Planalto (BA),136,765,4,18,Avicultura (Frango)
+722,2925105,Poções (BA),344,1132,9,26,Avicultura (Frango)
+723,2925204,Pojuca (BA),61,232,4,16,Avicultura (Frango)
+724,2925253,Ponto Novo (BA),71,654,2,15,Avicultura (Frango)
+725,2925303,Porto Seguro (BA),127,342,10,22,Avicultura (Frango)
+726,2925402,Potiraguá (BA),116,69,4,3,Avicultura (Frango)
+727,2925501,Prado (BA),72,395,364,27,Avicultura (Frango)
+728,2925600,Presidente Dutra (BA),50,215,2,6,Avicultura (Frango)
+729,2925709,Presidente Jânio Quadros (BA),105,1648,3,36,Avicultura (Frango)
+730,2925758,Presidente Tancredo Neves (BA),302,1393,7,32,Avicultura (Frango)
+731,2925808,Queimadas (BA),392,1115,8,21,Avicultura (Frango)
+732,2925907,Quijingue (BA),248,1649,5,30,Avicultura (Frango)
+733,2925931,Quixabeira (BA),130,623,4,18,Avicultura (Frango)
+734,2925956,Rafael Jambeiro (BA),765,1836,11,31,Avicultura (Frango)
+735,2926004,Remanso (BA),352,2758,12,58,Avicultura (Frango)
+736,2926103,Retirolândia (BA),211,499,5,15,Avicultura (Frango)
+737,2926202,Riachão das Neves (BA),266,1038,13,50,Avicultura (Frango)
+738,2926301,Riachão do Jacuípe (BA),462,1224,11,26,Avicultura (Frango)
+739,2926400,Riacho de Santana (BA),550,2818,17,84,Avicultura (Frango)
+740,2926509,Ribeira do Amparo (BA),209,1505,4,25,Avicultura (Frango)
+741,2926608,Ribeira do Pombal (BA),437,2294,94,56,Avicultura (Frango)
+742,2926657,Ribeirão do Largo (BA),142,649,5,17,Avicultura (Frango)
+743,2926707,Rio de Contas (BA),64,405,1,10,Avicultura (Frango)
+744,2926806,Rio do Antônio (BA),268,1690,5,39,Avicultura (Frango)
+745,2926905,Rio do Pires (BA),169,574,4,10,Avicultura (Frango)
+746,2927002,Rio Real (BA),268,491,7,14,Avicultura (Frango)
+747,2927101,Rodelas (BA),8,33,0,1,Avicultura (Frango)
+748,2927200,Ruy Barbosa (BA),231,826,8,28,Avicultura (Frango)
+749,2927309,Salinas da Margarida (BA),10,16,1,1,Avicultura (Frango)
+750,2927408,Salvador (BA),5,2,0,0,Avicultura (Frango)
+751,2927507,Santa Bárbara (BA),231,860,8,38,Avicultura (Frango)
+752,2927606,Santa Brígida (BA),203,1166,4,23,Avicultura (Frango)
+753,2927705,Santa Cruz Cabrália (BA),109,228,5,12,Avicultura (Frango)
+754,2927804,Santa Cruz da Vitória (BA),9,28,0,1,Avicultura (Frango)
+755,2927903,Santa Inês (BA),1,11,0,0,Avicultura (Frango)
+756,2928000,Santaluz (BA),383,1076,8,24,Avicultura (Frango)
+757,2928059,Santa Luzia (BA),36,74,1,2,Avicultura (Frango)
+758,2928109,Santa Maria da Vitória (BA),449,2014,15,65,Avicultura (Frango)
+759,2928208,Santana (BA),282,1703,11,57,Avicultura (Frango)
+760,2928307,Santanópolis (BA),186,779,6,19,Avicultura (Frango)
+761,2928406,Santa Rita de Cássia (BA),332,1714,13,56,Avicultura (Frango)
+762,2928505,Santa Terezinha (BA),24,305,1,12,Avicultura (Frango)
+763,2928604,Santo Amaro (BA),133,986,465,84,Avicultura (Frango)
+764,2928703,Santo Antônio de Jesus (BA),370,1145,229,30,Avicultura (Frango)
+765,2928802,Santo Estêvão (BA),887,3016,47,63,Avicultura (Frango)
+766,2928901,São Desidério (BA),368,1428,18,45,Avicultura (Frango)
+767,2928950,São Domingos (BA),82,254,2,7,Avicultura (Frango)
+768,2929008,São Félix (BA),67,514,1,11,Avicultura (Frango)
+769,2929057,São Félix do Coribe (BA),94,667,4,24,Avicultura (Frango)
+770,2929107,São Felipe (BA),132,645,3,15,Avicultura (Frango)
+771,2929206,São Francisco do Conde (BA),15,87,1,2,Avicultura (Frango)
+772,2929255,São Gabriel (BA),151,458,5,15,Avicultura (Frango)
+773,2929305,São Gonçalo dos Campos (BA),510,966,280,1756,Avicultura (Frango)
+774,2929354,São José da Vitória (BA),22,31,1,1,Avicultura (Frango)
+775,2929370,São José do Jacuípe (BA),113,387,3,9,Avicultura (Frango)
+776,2929404,São Miguel das Matas (BA),188,843,5,176,Avicultura (Frango)
+777,2929503,São Sebastião do Passé (BA),95,278,4,11,Avicultura (Frango)
+778,2929602,Sapeaçu (BA),36,218,35,8,Avicultura (Frango)
+779,2929701,Sátiro Dias (BA),320,1250,107,24,Avicultura (Frango)
+780,2929750,Saubara (BA),5,31,0,1,Avicultura (Frango)
+781,2929800,Saúde (BA),89,488,2,14,Avicultura (Frango)
+782,2929909,Seabra (BA),277,1852,7,41,Avicultura (Frango)
+783,2930006,Sebastião Laranjeiras (BA),205,637,7,18,Avicultura (Frango)
+784,2930105,Senhor do Bonfim (BA),149,698,11,22,Avicultura (Frango)
+785,2930154,Serra do Ramalho (BA),111,566,4,17,Avicultura (Frango)
+786,2930204,Sento Sé (BA),36,494,1,12,Avicultura (Frango)
+787,2930303,Serra Dourada (BA),298,1666,12,59,Avicultura (Frango)
+788,2930402,Serra Preta (BA),354,894,8,22,Avicultura (Frango)
+789,2930501,Serrinha (BA),1321,2794,202,209,Avicultura (Frango)
+790,2930600,Serrolândia (BA),149,523,25,14,Avicultura (Frango)
+791,2930709,Simões Filho (BA),54,127,2,7,Avicultura (Frango)
+792,2930758,Sítio do Mato (BA),72,1036,2,29,Avicultura (Frango)
+793,2930766,Sítio do Quinto (BA),88,829,2,17,Avicultura (Frango)
+794,2930774,Sobradinho (BA),40,62,2,2,Avicultura (Frango)
+795,2930808,Souto Soares (BA),183,783,6,19,Avicultura (Frango)
+796,2930907,Tabocas do Brejo Velho (BA),389,1202,12,44,Avicultura (Frango)
+797,2931004,Tanhaçu (BA),274,1139,6,20,Avicultura (Frango)
+798,2931053,Tanque Novo (BA),252,1823,8,52,Avicultura (Frango)
+799,2931103,Tanquinho (BA),95,270,2,5,Avicultura (Frango)
+800,2931202,Taperoá (BA),48,491,1,12,Avicultura (Frango)
+801,2931301,Tapiramutá (BA),71,251,2,7,Avicultura (Frango)
+802,2931350,Teixeira de Freitas (BA),42,106,2,5,Avicultura (Frango)
+803,2931400,Teodoro Sampaio (BA),3,21,6,1,Avicultura (Frango)
+804,2931509,Teofilândia (BA),404,1006,7,22,Avicultura (Frango)
+805,2931608,Teolândia (BA),50,541,2,13,Avicultura (Frango)
+806,2931707,Terra Nova (BA),10,58,1,1,Avicultura (Frango)
+807,2931806,Tremedal (BA),256,1867,5,43,Avicultura (Frango)
+808,2931905,Tucano (BA),270,2133,7,45,Avicultura (Frango)
+809,2932002,Uauá (BA),167,1969,3,34,Avicultura (Frango)
+810,2932101,Ubaíra (BA),126,875,3,18,Avicultura (Frango)
+811,2932200,Ubaitaba (BA),2,7,0,0,Avicultura (Frango)
+812,2932309,Ubatã (BA),10,13,0,0,Avicultura (Frango)
+813,2932408,Uibaí (BA),82,287,3,12,Avicultura (Frango)
+814,2932457,Umburanas (BA),110,293,3,7,Avicultura (Frango)
+815,2932507,Una (BA),24,125,1,5,Avicultura (Frango)
+816,2932606,Urandi (BA),240,1464,14,39,Avicultura (Frango)
+817,2932705,Uruçuca (BA),24,85,1,4,Avicultura (Frango)
+818,2932804,Utinga (BA),49,301,2,10,Avicultura (Frango)
+819,2932903,Valença (BA),179,992,5,26,Avicultura (Frango)
+820,2933000,Valente (BA),201,665,5,19,Avicultura (Frango)
+821,2933059,Várzea da Roça (BA),123,1173,4,27,Avicultura (Frango)
+822,2933109,Várzea do Poço (BA),81,368,3,12,Avicultura (Frango)
+823,2933158,Várzea Nova (BA),48,414,2,12,Avicultura (Frango)
+824,2933174,Varzedo (BA),46,450,606,173,Avicultura (Frango)
+825,2933208,Vera Cruz (BA),25,38,1,2,Avicultura (Frango)
+826,2933257,Vereda (BA),30,104,1,4,Avicultura (Frango)
+827,2933307,Vitória da Conquista (BA),1031,2898,776,89,Avicultura (Frango)
+828,2933406,Wagner (BA),75,244,2,11,Avicultura (Frango)
+829,2933455,Wanderley (BA),432,884,13,28,Avicultura (Frango)
+830,2933505,Wenceslau Guimarães (BA),134,447,4,11,Avicultura (Frango)
+831,2933604,Xique-Xique (BA),158,1094,5,22,Avicultura (Frango)
+832,2900108,Abaíra (BA),2,34,0,0,Ovinocultura
+833,2900207,Abaré (BA),95,921,3992,38322,Ovinocultura
+834,2900306,Acajutiba (BA),9,5,390,280,Ovinocultura
+835,2900355,Adustina (BA),106,548,3587,8508,Ovinocultura
+836,2900405,Água Fria (BA),59,180,864,1623,Ovinocultura
+837,2900504,Érico Cardoso (BA),11,37,131,184,Ovinocultura
+838,2900603,Aiquara (BA),3,1,0,0,Ovinocultura
+839,2900702,Alagoinhas (BA),26,43,335,363,Ovinocultura
+840,2900801,Alcobaça (BA),7,5,0,0,Ovinocultura
+841,2900900,Almadina (BA),1,0,0,0,Ovinocultura
+842,2901007,Amargosa (BA),26,50,855,462,Ovinocultura
+843,2901106,Amélia Rodrigues (BA),7,9,169,76,Ovinocultura
+844,2901155,América Dourada (BA),92,298,2705,7759,Ovinocultura
+845,2901205,Anagé (BA),48,268,1086,4225,Ovinocultura
+846,2901304,Andaraí (BA),13,24,679,370,Ovinocultura
+847,2901353,Andorinha (BA),347,1098,10277,24842,Ovinocultura
+848,2901403,Angical (BA),34,96,924,2315,Ovinocultura
+849,2901502,Anguera (BA),57,154,592,1495,Ovinocultura
+850,2901601,Antas (BA),36,99,635,1065,Ovinocultura
+851,2901700,Antônio Cardoso (BA),137,273,3228,1938,Ovinocultura
+852,2901809,Antônio Gonçalves (BA),7,36,131,494,Ovinocultura
+853,2901908,Aporá (BA),77,267,1082,3167,Ovinocultura
+854,2901957,Apuarema (BA),1,0,0,0,Ovinocultura
+855,2902005,Aracatu (BA),60,183,1439,3652,Ovinocultura
+856,2902054,Araçás (BA),26,24,906,344,Ovinocultura
+857,2902104,Araci (BA),502,1637,9750,27588,Ovinocultura
+858,2902203,Aramari (BA),5,14,98,109,Ovinocultura
+859,2902252,Arataca (BA),0,0,0,0,Ovinocultura
+860,2902302,Aratuípe (BA),4,3,0,0,Ovinocultura
+861,2902401,Aurelino Leal (BA),8,2,0,0,Ovinocultura
+862,2902500,Baianópolis (BA),22,16,702,182,Ovinocultura
+863,2902609,Baixa Grande (BA),146,435,3362,6580,Ovinocultura
+864,2902658,Banzaê (BA),22,162,336,1858,Ovinocultura
+865,2902708,Barra (BA),24,263,334,1838,Ovinocultura
+866,2902807,Barra da Estiva (BA),32,79,845,1802,Ovinocultura
+867,2902906,Barra do Choça (BA),17,14,707,182,Ovinocultura
+868,2903003,Barra do Mendes (BA),88,179,1728,3266,Ovinocultura
+869,2903102,Barra do Rocha (BA),2,2,0,0,Ovinocultura
+870,2903201,Barreiras (BA),116,75,5695,1794,Ovinocultura
+871,2903235,Barro Alto (BA),47,175,1468,3131,Ovinocultura
+872,2903276,Barrocas (BA),96,255,1120,3575,Ovinocultura
+873,2903300,Barro Preto (BA),1,0,0,0,Ovinocultura
+874,2903409,Belmonte (BA),11,6,1783,114,Ovinocultura
+875,2903508,Belo Campo (BA),18,107,453,2730,Ovinocultura
+876,2903607,Biritinga (BA),49,213,765,2460,Ovinocultura
+877,2903706,Boa Nova (BA),20,45,552,622,Ovinocultura
+878,2903805,Boa Vista do Tupim (BA),127,261,5086,4053,Ovinocultura
+879,2903904,Bom Jesus da Lapa (BA),64,224,2112,3794,Ovinocultura
+880,2903953,Bom Jesus da Serra (BA),10,67,267,1234,Ovinocultura
+881,2904001,Boninal (BA),17,31,216,284,Ovinocultura
+882,2904050,Bonito (BA),6,18,296,417,Ovinocultura
+883,2904100,Boquira (BA),109,519,1906,8599,Ovinocultura
+884,2904209,Botuporã (BA),16,63,228,997,Ovinocultura
+885,2904308,Brejões (BA),15,40,135,536,Ovinocultura
+886,2904407,Brejolândia (BA),20,65,287,1250,Ovinocultura
+887,2904506,Brotas de Macaúbas (BA),4,53,0,0,Ovinocultura
+888,2904605,Brumado (BA),97,272,1725,4744,Ovinocultura
+889,2904704,Buerarema (BA),3,1,0,0,Ovinocultura
+890,2904753,Buritirama (BA),20,253,431,4231,Ovinocultura
+891,2904803,Caatiba (BA),10,5,304,136,Ovinocultura
+892,2904852,Cabaceiras do Paraguaçu (BA),118,438,2440,3157,Ovinocultura
+893,2904902,Cachoeira (BA),7,17,165,134,Ovinocultura
+894,2905008,Caculé (BA),14,25,144,243,Ovinocultura
+895,2905107,Caém (BA),37,83,775,978,Ovinocultura
+896,2905156,Caetanos (BA),108,483,2530,10720,Ovinocultura
+897,2905206,Caetité (BA),42,95,778,985,Ovinocultura
+898,2905305,Cafarnaum (BA),76,244,1433,5550,Ovinocultura
+899,2905404,Cairu (BA),1,0,0,0,Ovinocultura
+900,2905503,Caldeirão Grande (BA),22,102,332,1338,Ovinocultura
+901,2905602,Camacan (BA),3,0,61,0,Ovinocultura
+902,2905701,Camaçari (BA),33,22,502,272,Ovinocultura
+903,2905800,Camamu (BA),3,3,97,25,Ovinocultura
+904,2905909,Campo Alegre de Lourdes (BA),145,1483,4314,39431,Ovinocultura
+905,2906006,Campo Formoso (BA),377,1510,25986,50828,Ovinocultura
+906,2906105,Canápolis (BA),4,12,124,306,Ovinocultura
+907,2906204,Canarana (BA),94,299,2337,6314,Ovinocultura
+908,2906303,Canavieiras (BA),5,3,0,0,Ovinocultura
+909,2906402,Candeal (BA),54,170,2603,1948,Ovinocultura
+910,2906501,Candeias (BA),16,22,389,120,Ovinocultura
+911,2906600,Candiba (BA),41,149,539,2472,Ovinocultura
+912,2906709,Cândido Sales (BA),10,13,0,0,Ovinocultura
+913,2906808,Cansanção (BA),231,1092,5937,17749,Ovinocultura
+914,2906824,Canudos (BA),175,538,9553,14222,Ovinocultura
+915,2906857,Capela do Alto Alegre (BA),141,415,3806,6914,Ovinocultura
+916,2906873,Capim Grosso (BA),85,325,1943,5194,Ovinocultura
+917,2906899,Caraíbas (BA),66,229,1838,4609,Ovinocultura
+918,2906907,Caravelas (BA),13,5,421,76,Ovinocultura
+919,2907004,Cardeal da Silva (BA),9,6,152,41,Ovinocultura
+920,2907103,Carinhanha (BA),28,154,719,2739,Ovinocultura
+921,2907202,Casa Nova (BA),979,3719,46485,129491,Ovinocultura
+922,2907301,Castro Alves (BA),18,105,422,1549,Ovinocultura
+923,2907400,Catolândia (BA),6,17,242,276,Ovinocultura
+924,2907509,Catu (BA),18,20,460,151,Ovinocultura
+925,2907558,Caturama (BA),47,276,862,3562,Ovinocultura
+926,2907608,Central (BA),83,257,1920,6972,Ovinocultura
+927,2907707,Chorrochó (BA),43,813,3185,36950,Ovinocultura
+928,2907806,Cícero Dantas (BA),118,645,2120,6692,Ovinocultura
+929,2907905,Cipó (BA),41,123,545,1573,Ovinocultura
+930,2908002,Coaraci (BA),2,1,0,0,Ovinocultura
+931,2908101,Cocos (BA),5,8,685,166,Ovinocultura
+932,2908200,Conceição da Feira (BA),18,67,298,504,Ovinocultura
+933,2908309,Conceição do Almeida (BA),18,31,401,343,Ovinocultura
+934,2908408,Conceição do Coité (BA),298,1296,5173,20598,Ovinocultura
+935,2908507,Conceição do Jacuípe (BA),7,21,244,517,Ovinocultura
+936,2908606,Conde (BA),33,23,953,317,Ovinocultura
+937,2908705,Condeúba (BA),7,25,51,148,Ovinocultura
+938,2908804,Contendas do Sincorá (BA),3,9,175,305,Ovinocultura
+939,2908903,Coração de Maria (BA),50,206,1545,1398,Ovinocultura
+940,2909000,Cordeiros (BA),24,52,370,516,Ovinocultura
+941,2909109,Coribe (BA),15,44,515,683,Ovinocultura
+942,2909208,Coronel João Sá (BA),195,467,3060,5252,Ovinocultura
+943,2909307,Correntina (BA),30,31,1818,588,Ovinocultura
+944,2909406,Cotegipe (BA),61,176,1365,3620,Ovinocultura
+945,2909505,Cravolândia (BA),2,2,0,0,Ovinocultura
+946,2909604,Crisópolis (BA),71,373,1591,4401,Ovinocultura
+947,2909703,Cristópolis (BA),7,26,0,0,Ovinocultura
+948,2909802,Cruz das Almas (BA),10,53,68,298,Ovinocultura
+949,2909901,Curaçá (BA),431,1862,32000,104280,Ovinocultura
+950,2910008,Dário Meira (BA),9,11,308,144,Ovinocultura
+951,2910057,Dias d'Ávila (BA),6,5,17,79,Ovinocultura
+952,2910107,Dom Basílio (BA),21,157,1520,2853,Ovinocultura
+953,2910206,Dom Macedo Costa (BA),14,10,205,97,Ovinocultura
+954,2910305,Elísio Medrado (BA),9,37,246,401,Ovinocultura
+955,2910404,Encruzilhada (BA),8,36,216,650,Ovinocultura
+956,2910503,Entre Rios (BA),34,18,1204,246,Ovinocultura
+957,2910602,Esplanada (BA),36,47,1178,565,Ovinocultura
+958,2910701,Euclides da Cunha (BA),458,1941,12072,35705,Ovinocultura
+959,2910727,Eunápolis (BA),7,3,0,0,Ovinocultura
+960,2910750,Fátima (BA),102,622,1131,7548,Ovinocultura
+961,2910776,Feira da Mata (BA),17,44,455,608,Ovinocultura
+962,2910800,Feira de Santana (BA),512,685,5469,5602,Ovinocultura
+963,2910859,Filadélfia (BA),40,188,1171,2500,Ovinocultura
+964,2910909,Firmino Alves (BA),5,1,0,0,Ovinocultura
+965,2911006,Floresta Azul (BA),3,2,0,0,Ovinocultura
+966,2911105,Formosa do Rio Preto (BA),74,83,2536,1545,Ovinocultura
+967,2911204,Gandu (BA),1,1,0,0,Ovinocultura
+968,2911253,Gavião (BA),70,336,2270,6948,Ovinocultura
+969,2911303,Gentio do Ouro (BA),14,57,437,1071,Ovinocultura
+970,2911402,Glória (BA),83,560,4045,16361,Ovinocultura
+971,2911501,Gongogi (BA),0,3,0,74,Ovinocultura
+972,2911600,Governador Mangabeira (BA),14,65,116,326,Ovinocultura
+973,2911659,Guajeru (BA),4,12,50,226,Ovinocultura
+974,2911709,Guanambi (BA),144,433,3065,7095,Ovinocultura
+975,2911808,Guaratinga (BA),38,29,1193,599,Ovinocultura
+976,2911857,Heliópolis (BA),56,348,933,4191,Ovinocultura
+977,2911907,Iaçu (BA),190,219,8589,4246,Ovinocultura
+978,2912004,Ibiassucê (BA),0,18,0,151,Ovinocultura
+979,2912103,Ibicaraí (BA),0,0,0,0,Ovinocultura
+980,2912202,Ibicoara (BA),9,11,248,200,Ovinocultura
+981,2912301,Ibicuí (BA),26,6,1035,106,Ovinocultura
+982,2912400,Ibipeba (BA),95,245,3349,6636,Ovinocultura
+983,2912509,Ibipitanga (BA),249,696,3894,13924,Ovinocultura
+984,2912608,Ibiquera (BA),6,23,472,284,Ovinocultura
+985,2912707,Ibirapitanga (BA),0,1,0,0,Ovinocultura
+986,2912806,Ibirapuã (BA),7,5,241,117,Ovinocultura
+987,2912905,Ibirataia (BA),2,1,0,0,Ovinocultura
+988,2913002,Ibitiara (BA),142,311,2722,7484,Ovinocultura
+989,2913101,Ibititá (BA),77,272,2099,6386,Ovinocultura
+990,2913200,Ibotirama (BA),28,107,835,812,Ovinocultura
+991,2913309,Ichu (BA),13,65,173,780,Ovinocultura
+992,2913408,Igaporã (BA),18,37,558,826,Ovinocultura
+993,2913457,Igrapiúna (BA),0,0,0,0,Ovinocultura
+994,2913507,Iguaí (BA),13,8,293,136,Ovinocultura
+995,2913606,Ilhéus (BA),15,7,394,42,Ovinocultura
+996,2913705,Inhambupe (BA),53,83,818,678,Ovinocultura
+997,2913804,Ipecaetá (BA),150,469,1503,4166,Ovinocultura
+998,2913903,Ipiaú (BA),6,1,0,0,Ovinocultura
+999,2914000,Ipirá (BA),501,2168,13093,31555,Ovinocultura
+1000,2914109,Ipupiara (BA),31,88,753,1790,Ovinocultura
+1001,2914208,Irajuba (BA),6,3,0,0,Ovinocultura
+1002,2914307,Iramaia (BA),18,50,556,1191,Ovinocultura
+1003,2914406,Iraquara (BA),28,72,600,825,Ovinocultura
+1004,2914505,Irará (BA),39,206,261,1424,Ovinocultura
+1005,2914604,Irecê (BA),45,98,2037,2717,Ovinocultura
+1006,2914653,Itabela (BA),9,2,0,0,Ovinocultura
+1007,2914703,Itaberaba (BA),221,470,6415,8015,Ovinocultura
+1008,2914802,Itabuna (BA),11,8,181,143,Ovinocultura
+1009,2914901,Itacaré (BA),3,0,82,0,Ovinocultura
+1010,2915007,Itaeté (BA),18,34,818,509,Ovinocultura
+1011,2915106,Itagi (BA),4,4,200,40,Ovinocultura
+1012,2915205,Itagibá (BA),21,9,756,165,Ovinocultura
+1013,2915304,Itagimirim (BA),4,4,260,75,Ovinocultura
+1014,2915353,Itaguaçu da Bahia (BA),128,357,6802,12597,Ovinocultura
+1015,2915403,Itaju do Colônia (BA),23,8,889,94,Ovinocultura
+1016,2915502,Itajuípe (BA),4,1,0,0,Ovinocultura
+1017,2915601,Itamaraju (BA),34,15,1312,211,Ovinocultura
+1018,2915700,Itamari (BA),1,1,0,0,Ovinocultura
+1019,2915809,Itambé (BA),24,18,774,389,Ovinocultura
+1020,2915908,Itanagra (BA),14,4,479,29,Ovinocultura
+1021,2916005,Itanhém (BA),20,31,386,430,Ovinocultura
+1022,2916104,Itaparica (BA),0,3,0,20,Ovinocultura
+1023,2916203,Itapé (BA),23,6,716,62,Ovinocultura
+1024,2916302,Itapebi (BA),13,1,0,0,Ovinocultura
+1025,2916401,Itapetinga (BA),36,13,1158,228,Ovinocultura
+1026,2916500,Itapicuru (BA),136,283,3357,3248,Ovinocultura
+1027,2916609,Itapitanga (BA),5,1,0,0,Ovinocultura
+1028,2916708,Itaquara (BA),7,8,415,28,Ovinocultura
+1029,2916807,Itarantim (BA),54,12,1568,266,Ovinocultura
+1030,2916856,Itatim (BA),93,161,1498,2347,Ovinocultura
+1031,2916906,Itiruçu (BA),4,7,82,201,Ovinocultura
+1032,2917003,Itiúba (BA),175,1449,5388,27255,Ovinocultura
+1033,2917102,Itororó (BA),5,2,0,0,Ovinocultura
+1034,2917201,Ituaçu (BA),41,108,907,1609,Ovinocultura
+1035,2917300,Ituberá (BA),0,1,0,0,Ovinocultura
+1036,2917334,Iuiu (BA),16,63,1028,1435,Ovinocultura
+1037,2917359,Jaborandi (BA),20,21,2249,299,Ovinocultura
+1038,2917409,Jacaraci (BA),2,21,0,0,Ovinocultura
+1039,2917508,Jacobina (BA),83,171,2494,2047,Ovinocultura
+1040,2917607,Jaguaquara (BA),17,18,805,187,Ovinocultura
+1041,2917706,Jaguarari (BA),119,693,3890,20887,Ovinocultura
+1042,2917805,Jaguaripe (BA),8,11,184,167,Ovinocultura
+1043,2917904,Jandaíra (BA),10,4,965,39,Ovinocultura
+1044,2918001,Jequié (BA),61,56,2805,1757,Ovinocultura
+1045,2918100,Jeremoabo (BA),190,960,5774,14481,Ovinocultura
+1046,2918209,Jiquiriçá (BA),4,4,98,17,Ovinocultura
+1047,2918308,Jitaúna (BA),2,5,0,0,Ovinocultura
+1048,2918357,João Dourado (BA),51,157,1466,4512,Ovinocultura
+1049,2918407,Juazeiro (BA),1239,2127,52379,91108,Ovinocultura
+1050,2918456,Jucuruçu (BA),13,5,583,23,Ovinocultura
+1051,2918506,Jussara (BA),112,396,8391,15133,Ovinocultura
+1052,2918555,Jussari (BA),11,1,0,0,Ovinocultura
+1053,2918605,Jussiape (BA),0,7,0,135,Ovinocultura
+1054,2918704,Lafaiete Coutinho (BA),12,6,0,0,Ovinocultura
+1055,2918753,Lagoa Real (BA),7,17,37,156,Ovinocultura
+1056,2918803,Laje (BA),14,22,220,169,Ovinocultura
+1057,2918902,Lajedão (BA),21,12,859,128,Ovinocultura
+1058,2919009,Lajedinho (BA),8,15,0,0,Ovinocultura
+1059,2919058,Lajedo do Tabocal (BA),2,8,0,0,Ovinocultura
+1060,2919108,Lamarão (BA),52,148,676,1477,Ovinocultura
+1061,2919157,Lapão (BA),179,379,5267,9634,Ovinocultura
+1062,2919207,Lauro de Freitas (BA),3,4,250,68,Ovinocultura
+1063,2919306,Lençóis (BA),6,11,152,99,Ovinocultura
+1064,2919405,Licínio de Almeida (BA),26,18,322,147,Ovinocultura
+1065,2919504,Livramento de Nossa Senhora (BA),31,145,1123,3316,Ovinocultura
+1066,2919553,Luís Eduardo Magalhães (BA),56,42,3562,1382,Ovinocultura
+1067,2919603,Macajuba (BA),50,120,4595,1429,Ovinocultura
+1068,2919702,Macarani (BA),12,12,385,278,Ovinocultura
+1069,2919801,Macaúbas (BA),88,293,1069,3897,Ovinocultura
+1070,2919900,Macururé (BA),123,509,3630,19170,Ovinocultura
+1071,2919959,Maetinga (BA),11,57,97,849,Ovinocultura
+1072,2920007,Maiquinique (BA),12,13,425,270,Ovinocultura
+1073,2920106,Mairi (BA),71,212,1221,2300,Ovinocultura
+1074,2920205,Malhada (BA),36,106,1018,2318,Ovinocultura
+1075,2920304,Malhada de Pedras (BA),18,40,241,678,Ovinocultura
+1076,2920403,Manoel Vitorino (BA),55,219,2160,6391,Ovinocultura
+1077,2920452,Mansidão (BA),42,228,1249,3796,Ovinocultura
+1078,2920502,Maracás (BA),64,58,2828,1449,Ovinocultura
+1079,2920601,Maragogipe (BA),12,58,81,302,Ovinocultura
+1080,2920700,Maraú (BA),2,0,0,0,Ovinocultura
+1081,2920809,Marcionílio Souza (BA),52,150,1992,3691,Ovinocultura
+1082,2920908,Mascote (BA),8,3,0,0,Ovinocultura
+1083,2921005,Mata de São João (BA),14,10,617,115,Ovinocultura
+1084,2921054,Matina (BA),5,67,67,1121,Ovinocultura
+1085,2921104,Medeiros Neto (BA),36,52,2877,2903,Ovinocultura
+1086,2921203,Miguel Calmon (BA),119,215,3435,4038,Ovinocultura
+1087,2921302,Milagres (BA),17,35,296,406,Ovinocultura
+1088,2921401,Mirangaba (BA),23,182,970,5346,Ovinocultura
+1089,2921450,Mirante (BA),72,192,2196,4148,Ovinocultura
+1090,2921500,Monte Santo (BA),701,3869,17866,78892,Ovinocultura
+1091,2921609,Morpará (BA),15,31,399,580,Ovinocultura
+1092,2921708,Morro do Chapéu (BA),79,321,3961,8533,Ovinocultura
+1093,2921807,Mortugaba (BA),2,7,0,0,Ovinocultura
+1094,2921906,Mucugê (BA),7,15,495,146,Ovinocultura
+1095,2922003,Mucuri (BA),9,3,275,38,Ovinocultura
+1096,2922052,Mulungu do Morro (BA),71,135,992,2062,Ovinocultura
+1097,2922102,Mundo Novo (BA),41,64,867,737,Ovinocultura
+1098,2922201,Muniz Ferreira (BA),16,15,175,63,Ovinocultura
+1099,2922250,Muquém do São Francisco (BA),59,151,2170,3417,Ovinocultura
+1100,2922300,Muritiba (BA),7,32,40,169,Ovinocultura
+1101,2922409,Mutuípe (BA),3,5,111,22,Ovinocultura
+1102,2922508,Nazaré (BA),10,4,401,12,Ovinocultura
+1103,2922607,Nilo Peçanha (BA),0,1,0,0,Ovinocultura
+1104,2922656,Nordestina (BA),108,471,2925,7356,Ovinocultura
+1105,2922706,Nova Canaã (BA),12,14,317,168,Ovinocultura
+1106,2922730,Nova Fátima (BA),138,584,2902,9420,Ovinocultura
+1107,2922755,Nova Ibiá (BA),1,0,0,0,Ovinocultura
+1108,2922805,Nova Itarana (BA),24,38,689,569,Ovinocultura
+1109,2922854,Nova Redenção (BA),16,51,741,636,Ovinocultura
+1110,2922904,Nova Soure (BA),129,458,2057,5964,Ovinocultura
+1111,2923001,Nova Viçosa (BA),2,1,0,0,Ovinocultura
+1112,2923035,Novo Horizonte (BA),4,18,0,0,Ovinocultura
+1113,2923050,Novo Triunfo (BA),31,140,260,1165,Ovinocultura
+1114,2923100,Olindina (BA),99,263,3444,3318,Ovinocultura
+1115,2923209,Oliveira dos Brejinhos (BA),105,574,2449,15749,Ovinocultura
+1116,2923308,Ouriçangas (BA),2,25,0,0,Ovinocultura
+1117,2923357,Ourolândia (BA),60,224,4548,6092,Ovinocultura
+1118,2923407,Palmas de Monte Alto (BA),41,184,2784,4975,Ovinocultura
+1119,2923506,Palmeiras (BA),4,5,242,61,Ovinocultura
+1120,2923605,Paramirim (BA),31,164,282,3042,Ovinocultura
+1121,2923704,Paratinga (BA),16,141,162,1390,Ovinocultura
+1122,2923803,Paripiranga (BA),288,915,3383,10345,Ovinocultura
+1123,2923902,Pau Brasil (BA),1,2,0,0,Ovinocultura
+1124,2924009,Paulo Afonso (BA),124,529,2394,10071,Ovinocultura
+1125,2924058,Pé de Serra (BA),131,664,2541,9666,Ovinocultura
+1126,2924108,Pedrão (BA),3,29,80,153,Ovinocultura
+1127,2924207,Pedro Alexandre (BA),171,319,3276,2979,Ovinocultura
+1128,2924306,Piatã (BA),13,90,152,539,Ovinocultura
+1129,2924405,Pilão Arcado (BA),116,1710,4699,54292,Ovinocultura
+1130,2924504,Pindaí (BA),59,170,888,2144,Ovinocultura
+1131,2924603,Pindobaçu (BA),34,59,949,1110,Ovinocultura
+1132,2924652,Pintadas (BA),138,455,6265,7175,Ovinocultura
+1133,2924678,Piraí do Norte (BA),2,1,0,0,Ovinocultura
+1134,2924702,Piripá (BA),13,27,165,236,Ovinocultura
+1135,2924801,Piritiba (BA),41,54,517,831,Ovinocultura
+1136,2924900,Planaltino (BA),5,51,90,775,Ovinocultura
+1137,2925006,Planalto (BA),15,43,497,543,Ovinocultura
+1138,2925105,Poções (BA),37,105,771,1796,Ovinocultura
+1139,2925204,Pojuca (BA),12,15,509,126,Ovinocultura
+1140,2925253,Ponto Novo (BA),44,215,1386,3165,Ovinocultura
+1141,2925303,Porto Seguro (BA),16,3,0,0,Ovinocultura
+1142,2925402,Potiraguá (BA),45,9,0,0,Ovinocultura
+1143,2925501,Prado (BA),14,5,383,67,Ovinocultura
+1144,2925600,Presidente Dutra (BA),54,187,1573,5825,Ovinocultura
+1145,2925709,Presidente Jânio Quadros (BA),16,124,365,1408,Ovinocultura
+1146,2925758,Presidente Tancredo Neves (BA),6,5,217,124,Ovinocultura
+1147,2925808,Queimadas (BA),421,1035,12522,19595,Ovinocultura
+1148,2925907,Quijingue (BA),413,2232,9100,40976,Ovinocultura
+1149,2925931,Quixabeira (BA),92,327,1462,5797,Ovinocultura
+1150,2925956,Rafael Jambeiro (BA),251,650,5678,6934,Ovinocultura
+1151,2926004,Remanso (BA),398,2587,26297,116385,Ovinocultura
+1152,2926103,Retirolândia (BA),171,506,3509,9092,Ovinocultura
+1153,2926202,Riachão das Neves (BA),59,66,3773,1468,Ovinocultura
+1154,2926301,Riachão do Jacuípe (BA),310,831,7481,12993,Ovinocultura
+1155,2926400,Riacho de Santana (BA),36,142,709,2760,Ovinocultura
+1156,2926509,Ribeira do Amparo (BA),70,267,1378,2725,Ovinocultura
+1157,2926608,Ribeira do Pombal (BA),142,592,3340,6642,Ovinocultura
+1158,2926657,Ribeirão do Largo (BA),18,18,480,263,Ovinocultura
+1159,2926707,Rio de Contas (BA),3,10,0,0,Ovinocultura
+1160,2926806,Rio do Antônio (BA),8,40,122,365,Ovinocultura
+1161,2926905,Rio do Pires (BA),30,110,361,1360,Ovinocultura
+1162,2927002,Rio Real (BA),44,52,956,736,Ovinocultura
+1163,2927101,Rodelas (BA),56,178,2818,8753,Ovinocultura
+1164,2927200,Ruy Barbosa (BA),45,115,1750,1437,Ovinocultura
+1165,2927309,Salinas da Margarida (BA),0,0,0,0,Ovinocultura
+1166,2927408,Salvador (BA),1,1,0,0,Ovinocultura
+1167,2927507,Santa Bárbara (BA),74,241,1192,2264,Ovinocultura
+1168,2927606,Santa Brígida (BA),107,493,2154,6116,Ovinocultura
+1169,2927705,Santa Cruz Cabrália (BA),6,3,0,0,Ovinocultura
+1170,2927804,Santa Cruz da Vitória (BA),4,4,133,68,Ovinocultura
+1171,2927903,Santa Inês (BA),2,9,0,0,Ovinocultura
+1172,2928000,Santaluz (BA),411,1377,16289,32108,Ovinocultura
+1173,2928059,Santa Luzia (BA),4,5,0,0,Ovinocultura
+1174,2928109,Santa Maria da Vitória (BA),21,34,640,562,Ovinocultura
+1175,2928208,Santana (BA),31,41,1520,831,Ovinocultura
+1176,2928307,Santanópolis (BA),43,193,521,1541,Ovinocultura
+1177,2928406,Santa Rita de Cássia (BA),76,146,2549,2190,Ovinocultura
+1178,2928505,Santa Terezinha (BA),31,139,1319,1917,Ovinocultura
+1179,2928604,Santo Amaro (BA),7,18,114,168,Ovinocultura
+1180,2928703,Santo Antônio de Jesus (BA),14,14,513,209,Ovinocultura
+1181,2928802,Santo Estêvão (BA),149,550,1262,3749,Ovinocultura
+1182,2928901,São Desidério (BA),64,22,3422,630,Ovinocultura
+1183,2928950,São Domingos (BA),131,382,4131,8261,Ovinocultura
+1184,2929008,São Félix (BA),7,62,103,269,Ovinocultura
+1185,2929057,São Félix do Coribe (BA),40,90,1894,1404,Ovinocultura
+1186,2929107,São Felipe (BA),18,75,224,422,Ovinocultura
+1187,2929206,São Francisco do Conde (BA),2,10,0,0,Ovinocultura
+1188,2929255,São Gabriel (BA),105,349,4080,11944,Ovinocultura
+1189,2929305,São Gonçalo dos Campos (BA),88,115,1058,1046,Ovinocultura
+1190,2929354,São José da Vitória (BA),1,1,0,0,Ovinocultura
+1191,2929370,São José do Jacuípe (BA),65,286,1616,5944,Ovinocultura
+1192,2929404,São Miguel das Matas (BA),5,19,91,187,Ovinocultura
+1193,2929503,São Sebastião do Passé (BA),13,22,506,375,Ovinocultura
+1194,2929602,Sapeaçu (BA),16,28,291,217,Ovinocultura
+1195,2929701,Sátiro Dias (BA),55,197,1193,2053,Ovinocultura
+1196,2929750,Saubara (BA),1,3,0,0,Ovinocultura
+1197,2929800,Saúde (BA),11,37,146,420,Ovinocultura
+1198,2929909,Seabra (BA),13,41,323,547,Ovinocultura
+1199,2930006,Sebastião Laranjeiras (BA),29,64,1414,1100,Ovinocultura
+1200,2930105,Senhor do Bonfim (BA),66,177,3406,3172,Ovinocultura
+1201,2930154,Serra do Ramalho (BA),55,264,2627,6208,Ovinocultura
+1202,2930204,Sento Sé (BA),57,781,7829,45166,Ovinocultura
+1203,2930303,Serra Dourada (BA),35,98,876,1542,Ovinocultura
+1204,2930402,Serra Preta (BA),187,554,3181,7149,Ovinocultura
+1205,2930501,Serrinha (BA),219,447,3245,4803,Ovinocultura
+1206,2930600,Serrolândia (BA),61,173,743,2088,Ovinocultura
+1207,2930709,Simões Filho (BA),4,17,84,177,Ovinocultura
+1208,2930758,Sítio do Mato (BA),8,114,254,1542,Ovinocultura
+1209,2930766,Sítio do Quinto (BA),31,370,820,4685,Ovinocultura
+1210,2930774,Sobradinho (BA),93,164,7960,7959,Ovinocultura
+1211,2930808,Souto Soares (BA),30,92,269,1032,Ovinocultura
+1212,2930907,Tabocas do Brejo Velho (BA),6,19,119,314,Ovinocultura
+1213,2931004,Tanhaçu (BA),76,323,1841,5721,Ovinocultura
+1214,2931053,Tanque Novo (BA),3,57,65,380,Ovinocultura
+1215,2931103,Tanquinho (BA),45,93,788,915,Ovinocultura
+1216,2931202,Taperoá (BA),0,0,0,0,Ovinocultura
+1217,2931301,Tapiramutá (BA),17,13,601,178,Ovinocultura
+1218,2931350,Teixeira de Freitas (BA),7,4,0,0,Ovinocultura
+1219,2931400,Teodoro Sampaio (BA),2,4,0,0,Ovinocultura
+1220,2931509,Teofilândia (BA),182,479,3035,8128,Ovinocultura
+1221,2931608,Teolândia (BA),1,0,0,0,Ovinocultura
+1222,2931707,Terra Nova (BA),6,20,187,319,Ovinocultura
+1223,2931806,Tremedal (BA),23,175,496,2729,Ovinocultura
+1224,2931905,Tucano (BA),319,2236,9142,46388,Ovinocultura
+1225,2932002,Uauá (BA),228,2217,9069,69495,Ovinocultura
+1226,2932101,Ubaíra (BA),3,7,174,64,Ovinocultura
+1227,2932200,Ubaitaba (BA),0,3,0,59,Ovinocultura
+1228,2932309,Ubatã (BA),0,3,0,0,Ovinocultura
+1229,2932408,Uibaí (BA),69,189,2036,4735,Ovinocultura
+1230,2932457,Umburanas (BA),65,114,2681,2086,Ovinocultura
+1231,2932507,Una (BA),1,0,0,0,Ovinocultura
+1232,2932606,Urandi (BA),35,142,693,2427,Ovinocultura
+1233,2932705,Uruçuca (BA),1,2,0,0,Ovinocultura
+1234,2932804,Utinga (BA),10,23,126,367,Ovinocultura
+1235,2932903,Valença (BA),2,3,0,0,Ovinocultura
+1236,2933000,Valente (BA),169,712,6321,16215,Ovinocultura
+1237,2933059,Várzea da Roça (BA),34,307,1009,4094,Ovinocultura
+1238,2933109,Várzea do Poço (BA),33,111,545,987,Ovinocultura
+1239,2933158,Várzea Nova (BA),56,713,3755,22187,Ovinocultura
+1240,2933174,Varzedo (BA),4,23,0,0,Ovinocultura
+1241,2933208,Vera Cruz (BA),1,0,0,0,Ovinocultura
+1242,2933257,Vereda (BA),9,5,0,0,Ovinocultura
+1243,2933307,Vitória da Conquista (BA),145,388,2847,6079,Ovinocultura
+1244,2933406,Wagner (BA),23,42,910,1167,Ovinocultura
+1245,2933455,Wanderley (BA),65,125,1283,2424,Ovinocultura
+1246,2933505,Wenceslau Guimarães (BA),2,1,0,0,Ovinocultura
+1247,2933604,Xique-Xique (BA),58,557,2510,11156,Ovinocultura
+1248,2900108,Abaíra (BA),23,210,71,671,Suinocultura
+1249,2900207,Abaré (BA),43,325,236,1727,Suinocultura
+1250,2900306,Acajutiba (BA),5,13,285,185,Suinocultura
+1251,2900355,Adustina (BA),25,135,308,713,Suinocultura
+1252,2900405,Água Fria (BA),63,239,268,842,Suinocultura
+1253,2900504,Érico Cardoso (BA),90,725,517,2047,Suinocultura
+1254,2900603,Aiquara (BA),16,23,31,64,Suinocultura
+1255,2900702,Alagoinhas (BA),33,151,229,996,Suinocultura
+1256,2900801,Alcobaça (BA),14,163,145,1203,Suinocultura
+1257,2900900,Almadina (BA),3,6,0,0,Suinocultura
+1258,2901007,Amargosa (BA),43,223,1539,1311,Suinocultura
+1259,2901106,Amélia Rodrigues (BA),6,19,142,90,Suinocultura
+1260,2901155,América Dourada (BA),34,159,218,1014,Suinocultura
+1261,2901205,Anagé (BA),132,875,645,4701,Suinocultura
+1262,2901304,Andaraí (BA),47,159,386,1083,Suinocultura
+1263,2901353,Andorinha (BA),56,264,246,1807,Suinocultura
+1264,2901403,Angical (BA),112,455,608,2777,Suinocultura
+1265,2901502,Anguera (BA),29,64,108,292,Suinocultura
+1266,2901601,Antas (BA),39,165,458,675,Suinocultura
+1267,2901700,Antônio Cardoso (BA),63,122,157,255,Suinocultura
+1268,2901809,Antônio Gonçalves (BA),9,35,49,168,Suinocultura
+1269,2901908,Aporá (BA),54,190,346,954,Suinocultura
+1270,2901957,Apuarema (BA),5,15,32,72,Suinocultura
+1271,2902005,Aracatu (BA),299,957,1017,4422,Suinocultura
+1272,2902054,Araçás (BA),17,49,78,161,Suinocultura
+1273,2902104,Araci (BA),82,360,573,1686,Suinocultura
+1274,2902203,Aramari (BA),10,92,80,340,Suinocultura
+1275,2902252,Arataca (BA),1,10,0,0,Suinocultura
+1276,2902302,Aratuípe (BA),11,50,26,148,Suinocultura
+1277,2902401,Aurelino Leal (BA),6,3,41,11,Suinocultura
+1278,2902500,Baianópolis (BA),245,806,983,2793,Suinocultura
+1279,2902609,Baixa Grande (BA),185,632,647,2337,Suinocultura
+1280,2902658,Banzaê (BA),9,89,26,344,Suinocultura
+1281,2902708,Barra (BA),36,553,236,1622,Suinocultura
+1282,2902807,Barra da Estiva (BA),29,136,174,787,Suinocultura
+1283,2902906,Barra do Choça (BA),37,91,408,657,Suinocultura
+1284,2903003,Barra do Mendes (BA),82,228,643,1360,Suinocultura
+1285,2903102,Barra do Rocha (BA),1,5,0,0,Suinocultura
+1286,2903201,Barreiras (BA),187,301,1672,2278,Suinocultura
+1287,2903235,Barro Alto (BA),74,395,604,2745,Suinocultura
+1288,2903276,Barrocas (BA),32,93,179,733,Suinocultura
+1289,2903300,Barro Preto (BA),7,0,57,0,Suinocultura
+1290,2903409,Belmonte (BA),12,38,247,310,Suinocultura
+1291,2903508,Belo Campo (BA),42,327,285,1847,Suinocultura
+1292,2903607,Biritinga (BA),51,213,321,865,Suinocultura
+1293,2903706,Boa Nova (BA),15,192,4100,1103,Suinocultura
+1294,2903805,Boa Vista do Tupim (BA),156,608,638,2990,Suinocultura
+1295,2903904,Bom Jesus da Lapa (BA),149,893,1106,4280,Suinocultura
+1296,2903953,Bom Jesus da Serra (BA),29,362,179,1651,Suinocultura
+1297,2904001,Boninal (BA),41,231,200,899,Suinocultura
+1298,2904050,Bonito (BA),17,42,780,266,Suinocultura
+1299,2904100,Boquira (BA),182,1050,741,4942,Suinocultura
+1300,2904209,Botuporã (BA),231,783,980,3492,Suinocultura
+1301,2904308,Brejões (BA),22,41,127,145,Suinocultura
+1302,2904407,Brejolândia (BA),207,582,757,2731,Suinocultura
+1303,2904506,Brotas de Macaúbas (BA),10,253,69,1701,Suinocultura
+1304,2904605,Brumado (BA),389,1225,1466,5648,Suinocultura
+1305,2904704,Buerarema (BA),4,5,43,43,Suinocultura
+1306,2904753,Buritirama (BA),31,348,291,1346,Suinocultura
+1307,2904803,Caatiba (BA),24,67,141,344,Suinocultura
+1308,2904852,Cabaceiras do Paraguaçu (BA),72,389,632,1129,Suinocultura
+1309,2904902,Cachoeira (BA),28,176,143,1008,Suinocultura
+1310,2905008,Caculé (BA),303,921,1316,3874,Suinocultura
+1311,2905107,Caém (BA),25,109,138,607,Suinocultura
+1312,2905156,Caetanos (BA),160,711,903,4951,Suinocultura
+1313,2905206,Caetité (BA),420,1840,3077,8023,Suinocultura
+1314,2905305,Cafarnaum (BA),104,302,585,2312,Suinocultura
+1315,2905503,Caldeirão Grande (BA),18,212,59,911,Suinocultura
+1316,2905602,Camacan (BA),3,13,15,186,Suinocultura
+1317,2905701,Camaçari (BA),52,76,4416,804,Suinocultura
+1318,2905800,Camamu (BA),12,82,162,248,Suinocultura
+1319,2905909,Campo Alegre de Lourdes (BA),197,1868,1340,14042,Suinocultura
+1320,2906006,Campo Formoso (BA),74,478,388,1970,Suinocultura
+1321,2906105,Canápolis (BA),127,634,480,1829,Suinocultura
+1322,2906204,Canarana (BA),115,481,812,4582,Suinocultura
+1323,2906303,Canavieiras (BA),11,40,95,296,Suinocultura
+1324,2906402,Candeal (BA),39,125,394,412,Suinocultura
+1325,2906501,Candeias (BA),10,30,2989,185,Suinocultura
+1326,2906600,Candiba (BA),213,836,988,5030,Suinocultura
+1327,2906709,Cândido Sales (BA),93,243,494,1246,Suinocultura
+1328,2906808,Cansanção (BA),91,299,443,1452,Suinocultura
+1329,2906824,Canudos (BA),42,127,228,783,Suinocultura
+1330,2906857,Capela do Alto Alegre (BA),49,168,269,1169,Suinocultura
+1331,2906873,Capim Grosso (BA),50,171,450,747,Suinocultura
+1332,2906899,Caraíbas (BA),192,611,857,3553,Suinocultura
+1333,2906907,Caravelas (BA),32,143,184,813,Suinocultura
+1334,2907004,Cardeal da Silva (BA),7,10,166,59,Suinocultura
+1335,2907103,Carinhanha (BA),149,950,1698,4613,Suinocultura
+1336,2907202,Casa Nova (BA),697,2699,5825,22605,Suinocultura
+1337,2907301,Castro Alves (BA),2,132,0,0,Suinocultura
+1338,2907400,Catolândia (BA),36,173,188,621,Suinocultura
+1339,2907509,Catu (BA),10,24,344,123,Suinocultura
+1340,2907558,Caturama (BA),75,685,385,3136,Suinocultura
+1341,2907608,Central (BA),42,139,421,1126,Suinocultura
+1342,2907707,Chorrochó (BA),18,374,75,1772,Suinocultura
+1343,2907806,Cícero Dantas (BA),75,455,530,1853,Suinocultura
+1344,2907905,Cipó (BA),22,99,128,416,Suinocultura
+1345,2908002,Coaraci (BA),2,13,0,0,Suinocultura
+1346,2908101,Cocos (BA),121,783,1106,3732,Suinocultura
+1347,2908200,Conceição da Feira (BA),69,228,5652,2102,Suinocultura
+1348,2908309,Conceição do Almeida (BA),24,84,80,362,Suinocultura
+1349,2908408,Conceição do Coité (BA),106,350,1005,5869,Suinocultura
+1350,2908507,Conceição do Jacuípe (BA),8,22,85,877,Suinocultura
+1351,2908606,Conde (BA),20,47,110,322,Suinocultura
+1352,2908705,Condeúba (BA),210,1073,897,4225,Suinocultura
+1353,2908804,Contendas do Sincorá (BA),9,19,89,142,Suinocultura
+1354,2908903,Coração de Maria (BA),56,343,273,1602,Suinocultura
+1355,2909000,Cordeiros (BA),67,442,200,1568,Suinocultura
+1356,2909109,Coribe (BA),94,925,506,4357,Suinocultura
+1357,2909208,Coronel João Sá (BA),61,176,172,577,Suinocultura
+1358,2909307,Correntina (BA),357,1281,1758,4823,Suinocultura
+1359,2909406,Cotegipe (BA),149,609,985,3033,Suinocultura
+1360,2909505,Cravolândia (BA),0,7,0,31,Suinocultura
+1361,2909604,Crisópolis (BA),27,189,131,810,Suinocultura
+1362,2909703,Cristópolis (BA),69,550,476,2691,Suinocultura
+1363,2909802,Cruz das Almas (BA),12,82,50,363,Suinocultura
+1364,2909901,Curaçá (BA),74,535,378,2578,Suinocultura
+1365,2910008,Dário Meira (BA),19,61,198,280,Suinocultura
+1366,2910057,Dias d'Ávila (BA),9,9,277,79,Suinocultura
+1367,2910107,Dom Basílio (BA),29,351,195,1472,Suinocultura
+1368,2910206,Dom Macedo Costa (BA),17,50,67,261,Suinocultura
+1369,2910305,Elísio Medrado (BA),51,164,279,797,Suinocultura
+1370,2910404,Encruzilhada (BA),72,184,678,1083,Suinocultura
+1371,2910503,Entre Rios (BA),24,39,1012,362,Suinocultura
+1372,2910602,Esplanada (BA),45,102,1208,1005,Suinocultura
+1373,2910701,Euclides da Cunha (BA),87,597,815,2011,Suinocultura
+1374,2910727,Eunápolis (BA),23,67,216,475,Suinocultura
+1375,2910750,Fátima (BA),48,260,302,1110,Suinocultura
+1376,2910776,Feira da Mata (BA),216,629,1156,3488,Suinocultura
+1377,2910800,Feira de Santana (BA),440,768,8962,4104,Suinocultura
+1378,2910859,Filadélfia (BA),33,157,123,788,Suinocultura
+1379,2910909,Firmino Alves (BA),6,20,155,198,Suinocultura
+1380,2911006,Floresta Azul (BA),2,8,0,0,Suinocultura
+1381,2911105,Formosa do Rio Preto (BA),151,426,1929,2531,Suinocultura
+1382,2911204,Gandu (BA),1,5,0,0,Suinocultura
+1383,2911253,Gavião (BA),5,31,57,214,Suinocultura
+1384,2911303,Gentio do Ouro (BA),15,72,174,650,Suinocultura
+1385,2911402,Glória (BA),14,93,393,450,Suinocultura
+1386,2911501,Gongogi (BA),4,14,94,322,Suinocultura
+1387,2911600,Governador Mangabeira (BA),65,269,198,789,Suinocultura
+1388,2911659,Guajeru (BA),184,871,712,3635,Suinocultura
+1389,2911709,Guanambi (BA),310,1502,1920,8284,Suinocultura
+1390,2911808,Guaratinga (BA),123,428,1258,2778,Suinocultura
+1391,2911857,Heliópolis (BA),20,188,69,665,Suinocultura
+1392,2911907,Iaçu (BA),67,125,450,696,Suinocultura
+1393,2912004,Ibiassucê (BA),220,827,992,4965,Suinocultura
+1394,2912103,Ibicaraí (BA),2,1,0,0,Suinocultura
+1395,2912202,Ibicoara (BA),16,29,75,109,Suinocultura
+1396,2912301,Ibicuí (BA),40,75,640,722,Suinocultura
+1397,2912400,Ibipeba (BA),52,222,922,1801,Suinocultura
+1398,2912509,Ibipitanga (BA),166,550,753,2929,Suinocultura
+1399,2912608,Ibiquera (BA),12,126,46,744,Suinocultura
+1400,2912707,Ibirapitanga (BA),16,42,89,128,Suinocultura
+1401,2912806,Ibirapuã (BA),20,76,572,847,Suinocultura
+1402,2912905,Ibirataia (BA),7,28,21,161,Suinocultura
+1403,2913002,Ibitiara (BA),209,734,1037,3571,Suinocultura
+1404,2913101,Ibititá (BA),48,185,394,1637,Suinocultura
+1405,2913200,Ibotirama (BA),77,307,400,1287,Suinocultura
+1406,2913309,Ichu (BA),21,44,373,206,Suinocultura
+1407,2913408,Igaporã (BA),209,522,2058,4853,Suinocultura
+1408,2913457,Igrapiúna (BA),7,39,118,141,Suinocultura
+1409,2913507,Iguaí (BA),23,106,367,847,Suinocultura
+1410,2913606,Ilhéus (BA),23,47,147,319,Suinocultura
+1411,2913705,Inhambupe (BA),110,249,560,1098,Suinocultura
+1412,2913804,Ipecaetá (BA),50,257,85,599,Suinocultura
+1413,2913903,Ipiaú (BA),7,21,22,78,Suinocultura
+1414,2914000,Ipirá (BA),200,746,6139,2803,Suinocultura
+1415,2914109,Ipupiara (BA),19,110,144,797,Suinocultura
+1416,2914208,Irajuba (BA),1,12,0,0,Suinocultura
+1417,2914307,Iramaia (BA),57,168,293,821,Suinocultura
+1418,2914406,Iraquara (BA),103,418,434,1959,Suinocultura
+1419,2914505,Irará (BA),99,615,312,2021,Suinocultura
+1420,2914604,Irecê (BA),17,71,370,757,Suinocultura
+1421,2914653,Itabela (BA),36,35,375,432,Suinocultura
+1422,2914703,Itaberaba (BA),129,442,1016,2677,Suinocultura
+1423,2914802,Itabuna (BA),11,21,12647,167,Suinocultura
+1424,2914901,Itacaré (BA),5,38,25,346,Suinocultura
+1425,2915007,Itaeté (BA),44,245,322,1076,Suinocultura
+1426,2915106,Itagi (BA),6,28,31,198,Suinocultura
+1427,2915205,Itagibá (BA),13,58,102,302,Suinocultura
+1428,2915304,Itagimirim (BA),5,7,47,52,Suinocultura
+1429,2915353,Itaguaçu da Bahia (BA),74,186,1144,2119,Suinocultura
+1430,2915403,Itaju do Colônia (BA),1,1,0,0,Suinocultura
+1431,2915502,Itajuípe (BA),7,8,29,33,Suinocultura
+1432,2915601,Itamaraju (BA),104,257,739,2185,Suinocultura
+1433,2915700,Itamari (BA),2,4,0,0,Suinocultura
+1434,2915809,Itambé (BA),85,224,511,1652,Suinocultura
+1435,2915908,Itanagra (BA),13,14,196,122,Suinocultura
+1436,2916005,Itanhém (BA),72,308,711,2805,Suinocultura
+1437,2916203,Itapé (BA),7,6,155,55,Suinocultura
+1438,2916302,Itapebi (BA),5,10,51,95,Suinocultura
+1439,2916401,Itapetinga (BA),21,27,515,258,Suinocultura
+1440,2916500,Itapicuru (BA),61,168,1417,1054,Suinocultura
+1441,2916609,Itapitanga (BA),9,4,50,22,Suinocultura
+1442,2916708,Itaquara (BA),2,24,0,0,Suinocultura
+1443,2916807,Itarantim (BA),87,72,1690,1139,Suinocultura
+1444,2916856,Itatim (BA),52,118,185,709,Suinocultura
+1445,2916906,Itiruçu (BA),10,13,60,163,Suinocultura
+1446,2917003,Itiúba (BA),48,391,175,1743,Suinocultura
+1447,2917102,Itororó (BA),5,30,80,352,Suinocultura
+1448,2917201,Ituaçu (BA),130,439,502,1658,Suinocultura
+1449,2917300,Ituberá (BA),3,32,17,72,Suinocultura
+1450,2917334,Iuiu (BA),97,351,1643,1920,Suinocultura
+1451,2917359,Jaborandi (BA),60,698,758,3341,Suinocultura
+1452,2917409,Jacaraci (BA),187,1303,856,5776,Suinocultura
+1453,2917508,Jacobina (BA),46,215,310,941,Suinocultura
+1454,2917607,Jaguaquara (BA),17,89,161,279,Suinocultura
+1455,2917706,Jaguarari (BA),39,223,179,1439,Suinocultura
+1456,2917805,Jaguaripe (BA),18,67,247,287,Suinocultura
+1457,2917904,Jandaíra (BA),9,24,48,167,Suinocultura
+1458,2918001,Jequié (BA),38,105,462,597,Suinocultura
+1459,2918100,Jeremoabo (BA),62,556,232,1825,Suinocultura
+1460,2918209,Jiquiriçá (BA),4,47,24,185,Suinocultura
+1461,2918308,Jitaúna (BA),8,26,17,75,Suinocultura
+1462,2918357,João Dourado (BA),29,73,194,484,Suinocultura
+1463,2918407,Juazeiro (BA),328,506,2190,3204,Suinocultura
+1464,2918456,Jucuruçu (BA),29,179,285,1369,Suinocultura
+1465,2918506,Jussara (BA),42,180,389,1347,Suinocultura
+1466,2918555,Jussari (BA),4,1,0,0,Suinocultura
+1467,2918605,Jussiape (BA),11,124,60,435,Suinocultura
+1468,2918704,Lafaiete Coutinho (BA),6,27,17,72,Suinocultura
+1469,2918753,Lagoa Real (BA),217,944,1080,5189,Suinocultura
+1470,2918803,Laje (BA),48,213,195,1047,Suinocultura
+1471,2918902,Lajedão (BA),17,72,236,551,Suinocultura
+1472,2919009,Lajedinho (BA),34,109,166,604,Suinocultura
+1473,2919058,Lajedo do Tabocal (BA),5,31,20,167,Suinocultura
+1474,2919108,Lamarão (BA),49,155,141,558,Suinocultura
+1475,2919157,Lapão (BA),93,220,1160,1728,Suinocultura
+1476,2919207,Lauro de Freitas (BA),3,9,73,115,Suinocultura
+1477,2919306,Lençóis (BA),33,54,179,320,Suinocultura
+1478,2919405,Licínio de Almeida (BA),355,553,1469,2466,Suinocultura
+1479,2919504,Livramento de Nossa Senhora (BA),75,1142,4855,6365,Suinocultura
+1480,2919553,Luís Eduardo Magalhães (BA),51,74,2258,2279,Suinocultura
+1481,2919603,Macajuba (BA),39,219,222,926,Suinocultura
+1482,2919702,Macarani (BA),36,39,1021,670,Suinocultura
+1483,2919801,Macaúbas (BA),414,2315,1493,9594,Suinocultura
+1484,2919900,Macururé (BA),53,224,327,1214,Suinocultura
+1485,2919959,Maetinga (BA),83,508,474,3156,Suinocultura
+1486,2920007,Maiquinique (BA),33,87,1573,2802,Suinocultura
+1487,2920106,Mairi (BA),106,372,471,1423,Suinocultura
+1488,2920205,Malhada (BA),125,585,960,3086,Suinocultura
+1489,2920304,Malhada de Pedras (BA),235,515,977,2930,Suinocultura
+1490,2920403,Manoel Vitorino (BA),31,212,241,1142,Suinocultura
+1491,2920452,Mansidão (BA),69,361,688,1999,Suinocultura
+1492,2920502,Maracás (BA),55,135,446,756,Suinocultura
+1493,2920601,Maragogipe (BA),17,119,107,337,Suinocultura
+1494,2920700,Maraú (BA),8,25,57,44,Suinocultura
+1495,2920809,Marcionílio Souza (BA),25,102,113,415,Suinocultura
+1496,2920908,Mascote (BA),15,22,144,152,Suinocultura
+1497,2921005,Mata de São João (BA),6,20,6039,229,Suinocultura
+1498,2921054,Matina (BA),55,599,463,3161,Suinocultura
+1499,2921104,Medeiros Neto (BA),42,137,572,1779,Suinocultura
+1500,2921203,Miguel Calmon (BA),57,104,343,613,Suinocultura
+1501,2921302,Milagres (BA),11,38,56,124,Suinocultura
+1502,2921401,Mirangaba (BA),1,56,0,0,Suinocultura
+1503,2921450,Mirante (BA),93,385,556,1761,Suinocultura
+1504,2921500,Monte Santo (BA),212,1464,851,6918,Suinocultura
+1505,2921609,Morpará (BA),19,75,76,395,Suinocultura
+1506,2921708,Morro do Chapéu (BA),25,162,243,1179,Suinocultura
+1507,2921807,Mortugaba (BA),291,837,1215,3883,Suinocultura
+1508,2921906,Mucugê (BA),15,83,120,427,Suinocultura
+1509,2922003,Mucuri (BA),20,145,177,889,Suinocultura
+1510,2922052,Mulungu do Morro (BA),121,281,681,1986,Suinocultura
+1511,2922102,Mundo Novo (BA),64,183,294,894,Suinocultura
+1512,2922201,Muniz Ferreira (BA),19,59,72,211,Suinocultura
+1513,2922250,Muquém do São Francisco (BA),80,355,517,1673,Suinocultura
+1514,2922300,Muritiba (BA),31,91,89,300,Suinocultura
+1515,2922409,Mutuípe (BA),8,96,16,309,Suinocultura
+1516,2922508,Nazaré (BA),14,37,209,138,Suinocultura
+1517,2922607,Nilo Peçanha (BA),0,13,0,35,Suinocultura
+1518,2922656,Nordestina (BA),39,205,194,824,Suinocultura
+1519,2922706,Nova Canaã (BA),72,301,612,2405,Suinocultura
+1520,2922730,Nova Fátima (BA),19,87,223,397,Suinocultura
+1521,2922755,Nova Ibiá (BA),7,10,29,54,Suinocultura
+1522,2922805,Nova Itarana (BA),21,45,87,214,Suinocultura
+1523,2922854,Nova Redenção (BA),30,191,181,720,Suinocultura
+1524,2922904,Nova Soure (BA),44,212,139,903,Suinocultura
+1525,2923001,Nova Viçosa (BA),8,46,71,537,Suinocultura
+1526,2923035,Novo Horizonte (BA),43,214,202,892,Suinocultura
+1527,2923050,Novo Triunfo (BA),28,105,59,268,Suinocultura
+1528,2923100,Olindina (BA),20,100,104,514,Suinocultura
+1529,2923209,Oliveira dos Brejinhos (BA),141,815,729,4377,Suinocultura
+1530,2923308,Ouriçangas (BA),18,140,96,446,Suinocultura
+1531,2923357,Ourolândia (BA),26,120,144,712,Suinocultura
+1532,2923407,Palmas de Monte Alto (BA),161,704,779,3375,Suinocultura
+1533,2923506,Palmeiras (BA),7,42,48,189,Suinocultura
+1534,2923605,Paramirim (BA),337,776,1774,6405,Suinocultura
+1535,2923704,Paratinga (BA),224,1453,724,4635,Suinocultura
+1536,2923803,Paripiranga (BA),115,442,414,1799,Suinocultura
+1537,2923902,Pau Brasil (BA),3,42,0,0,Suinocultura
+1538,2924009,Paulo Afonso (BA),20,86,307,660,Suinocultura
+1539,2924058,Pé de Serra (BA),32,220,511,1540,Suinocultura
+1540,2924108,Pedrão (BA),3,133,11,552,Suinocultura
+1541,2924207,Pedro Alexandre (BA),48,100,180,284,Suinocultura
+1542,2924306,Piatã (BA),95,496,415,1471,Suinocultura
+1543,2924405,Pilão Arcado (BA),107,1996,1061,17803,Suinocultura
+1544,2924504,Pindaí (BA),295,1422,1690,6855,Suinocultura
+1545,2924603,Pindobaçu (BA),29,57,128,338,Suinocultura
+1546,2924652,Pintadas (BA),32,180,183,803,Suinocultura
+1547,2924678,Piraí do Norte (BA),17,22,36,64,Suinocultura
+1548,2924702,Piripá (BA),121,449,547,2069,Suinocultura
+1549,2924801,Piritiba (BA),93,178,481,1295,Suinocultura
+1550,2924900,Planaltino (BA),16,167,112,979,Suinocultura
+1551,2925006,Planalto (BA),40,215,330,1089,Suinocultura
+1552,2925105,Poções (BA),55,220,248,1148,Suinocultura
+1553,2925204,Pojuca (BA),8,20,49,198,Suinocultura
+1554,2925253,Ponto Novo (BA),13,109,115,480,Suinocultura
+1555,2925303,Porto Seguro (BA),42,123,621,1385,Suinocultura
+1556,2925402,Potiraguá (BA),40,24,550,378,Suinocultura
+1557,2925501,Prado (BA),33,143,330,1030,Suinocultura
+1558,2925600,Presidente Dutra (BA),31,102,230,761,Suinocultura
+1559,2925709,Presidente Jânio Quadros (BA),88,1130,651,5249,Suinocultura
+1560,2925758,Presidente Tancredo Neves (BA),39,192,1043,1645,Suinocultura
+1561,2925808,Queimadas (BA),94,234,610,1007,Suinocultura
+1562,2925907,Quijingue (BA),71,392,366,1721,Suinocultura
+1563,2925931,Quixabeira (BA),40,146,200,662,Suinocultura
+1564,2925956,Rafael Jambeiro (BA),103,292,271,790,Suinocultura
+1565,2926004,Remanso (BA),169,1264,1559,9276,Suinocultura
+1566,2926103,Retirolândia (BA),17,36,82,339,Suinocultura
+1567,2926202,Riachão das Neves (BA),122,419,1443,3562,Suinocultura
+1568,2926301,Riachão do Jacuípe (BA),134,339,2440,2881,Suinocultura
+1569,2926400,Riacho de Santana (BA),263,1446,2025,7104,Suinocultura
+1570,2926509,Ribeira do Amparo (BA),24,167,91,645,Suinocultura
+1571,2926608,Ribeira do Pombal (BA),93,521,595,2777,Suinocultura
+1572,2926657,Ribeirão do Largo (BA),49,223,352,1162,Suinocultura
+1573,2926707,Rio de Contas (BA),26,230,110,1096,Suinocultura
+1574,2926806,Rio do Antônio (BA),184,1074,706,4654,Suinocultura
+1575,2926905,Rio do Pires (BA),113,295,311,1294,Suinocultura
+1576,2927002,Rio Real (BA),45,73,438,670,Suinocultura
+1577,2927101,Rodelas (BA),3,5,17,51,Suinocultura
+1578,2927200,Ruy Barbosa (BA),109,381,464,1646,Suinocultura
+1579,2927309,Salinas da Margarida (BA),1,0,0,0,Suinocultura
+1580,2927408,Salvador (BA),2,0,0,0,Suinocultura
+1581,2927507,Santa Bárbara (BA),42,150,496,793,Suinocultura
+1582,2927606,Santa Brígida (BA),27,187,188,938,Suinocultura
+1583,2927705,Santa Cruz Cabrália (BA),27,63,193,460,Suinocultura
+1584,2927804,Santa Cruz da Vitória (BA),3,13,105,180,Suinocultura
+1585,2927903,Santa Inês (BA),1,4,0,0,Suinocultura
+1586,2928000,Santaluz (BA),46,151,335,1070,Suinocultura
+1587,2928059,Santa Luzia (BA),11,25,76,197,Suinocultura
+1588,2928109,Santa Maria da Vitória (BA),249,1200,1656,5297,Suinocultura
+1589,2928208,Santana (BA),184,1175,1714,4542,Suinocultura
+1590,2928307,Santanópolis (BA),28,155,130,435,Suinocultura
+1591,2928406,Santa Rita de Cássia (BA),142,788,1180,3964,Suinocultura
+1592,2928505,Santa Terezinha (BA),5,92,9,443,Suinocultura
+1593,2928604,Santo Amaro (BA),22,109,107,539,Suinocultura
+1594,2928703,Santo Antônio de Jesus (BA),60,187,2286,1183,Suinocultura
+1595,2928802,Santo Estêvão (BA),165,612,407,1537,Suinocultura
+1596,2928901,São Desidério (BA),150,504,4500,2189,Suinocultura
+1597,2928950,São Domingos (BA),17,67,112,468,Suinocultura
+1598,2929008,São Félix (BA),6,38,19,183,Suinocultura
+1599,2929057,São Félix do Coribe (BA),65,492,833,2745,Suinocultura
+1600,2929107,São Felipe (BA),31,141,114,389,Suinocultura
+1601,2929206,São Francisco do Conde (BA),1,8,0,0,Suinocultura
+1602,2929255,São Gabriel (BA),55,150,457,1322,Suinocultura
+1603,2929305,São Gonçalo dos Campos (BA),108,210,434,2365,Suinocultura
+1604,2929354,São José da Vitória (BA),1,2,0,0,Suinocultura
+1605,2929370,São José do Jacuípe (BA),29,127,206,783,Suinocultura
+1606,2929404,São Miguel das Matas (BA),13,60,43,292,Suinocultura
+1607,2929503,São Sebastião do Passé (BA),14,37,333,262,Suinocultura
+1608,2929602,Sapeaçu (BA),13,91,86,313,Suinocultura
+1609,2929701,Sátiro Dias (BA),62,198,1084,789,Suinocultura
+1610,2929750,Saubara (BA),0,3,0,23,Suinocultura
+1611,2929800,Saúde (BA),14,75,63,369,Suinocultura
+1612,2929909,Seabra (BA),91,575,292,2410,Suinocultura
+1613,2930006,Sebastião Laranjeiras (BA),136,467,1155,2669,Suinocultura
+1614,2930105,Senhor do Bonfim (BA),26,109,406,1090,Suinocultura
+1615,2930154,Serra do Ramalho (BA),63,281,437,1566,Suinocultura
+1616,2930204,Sento Sé (BA),9,150,99,1400,Suinocultura
+1617,2930303,Serra Dourada (BA),199,1004,1050,4948,Suinocultura
+1618,2930402,Serra Preta (BA),41,133,174,458,Suinocultura
+1619,2930501,Serrinha (BA),174,408,1243,2464,Suinocultura
+1620,2930600,Serrolândia (BA),50,172,326,722,Suinocultura
+1621,2930709,Simões Filho (BA),9,37,3565,352,Suinocultura
+1622,2930758,Sítio do Mato (BA),44,719,218,3409,Suinocultura
+1623,2930766,Sítio do Quinto (BA),31,286,174,874,Suinocultura
+1624,2930774,Sobradinho (BA),24,47,194,361,Suinocultura
+1625,2930808,Souto Soares (BA),91,443,423,2269,Suinocultura
+1626,2930907,Tabocas do Brejo Velho (BA),272,737,786,2507,Suinocultura
+1627,2931004,Tanhaçu (BA),171,611,659,3346,Suinocultura
+1628,2931053,Tanque Novo (BA),160,1025,897,5031,Suinocultura
+1629,2931103,Tanquinho (BA),22,74,111,267,Suinocultura
+1630,2931202,Taperoá (BA),9,81,29,308,Suinocultura
+1631,2931301,Tapiramutá (BA),8,45,37,173,Suinocultura
+1632,2931350,Teixeira de Freitas (BA),25,56,189,627,Suinocultura
+1633,2931400,Teodoro Sampaio (BA),2,7,0,0,Suinocultura
+1634,2931509,Teofilândia (BA),46,158,249,620,Suinocultura
+1635,2931608,Teolândia (BA),11,76,56,324,Suinocultura
+1636,2931707,Terra Nova (BA),5,16,31,50,Suinocultura
+1637,2931806,Tremedal (BA),128,1048,498,4939,Suinocultura
+1638,2931905,Tucano (BA),39,311,747,1795,Suinocultura
+1639,2932002,Uauá (BA),41,521,208,2261,Suinocultura
+1640,2932101,Ubaíra (BA),10,105,28,418,Suinocultura
+1641,2932200,Ubaitaba (BA),0,6,0,37,Suinocultura
+1642,2932309,Ubatã (BA),0,5,0,36,Suinocultura
+1643,2932408,Uibaí (BA),39,153,685,1826,Suinocultura
+1644,2932457,Umburanas (BA),7,57,66,344,Suinocultura
+1645,2932507,Una (BA),6,25,140,244,Suinocultura
+1646,2932606,Urandi (BA),174,1044,2005,4618,Suinocultura
+1647,2932705,Uruçuca (BA),5,6,13,14,Suinocultura
+1648,2932804,Utinga (BA),20,66,535,373,Suinocultura
+1649,2932903,Valença (BA),20,130,125,626,Suinocultura
+1650,2933000,Valente (BA),25,88,196,669,Suinocultura
+1651,2933059,Várzea da Roça (BA),37,327,182,1828,Suinocultura
+1652,2933109,Várzea do Poço (BA),38,160,251,871,Suinocultura
+1653,2933158,Várzea Nova (BA),14,97,290,932,Suinocultura
+1654,2933174,Varzedo (BA),9,93,52,453,Suinocultura
+1655,2933208,Vera Cruz (BA),5,12,25,191,Suinocultura
+1656,2933257,Vereda (BA),12,60,187,397,Suinocultura
+1657,2933307,Vitória da Conquista (BA),268,914,18297,5045,Suinocultura
+1658,2933406,Wagner (BA),25,64,141,395,Suinocultura
+1659,2933455,Wanderley (BA),243,581,1509,3771,Suinocultura
+1660,2933505,Wenceslau Guimarães (BA),24,69,68,285,Suinocultura
+1661,2933604,Xique-Xique (BA),66,520,596,3687,Suinocultura

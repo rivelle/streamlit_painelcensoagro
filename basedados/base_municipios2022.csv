@@ -1,0 +1,418 @@
+OBJECTID,CD_MUN,NM_MUN,SIGLA_UF,AREA_KM2,TER_IDENT,est_agrico,est_agricf,biomapredo
+1,"2900108",Abaíra,BA,538.677001953125,Chapada Diamantina,919,820,Caatinga
+2,"2900207",Abaré,BA,1604.92297363281,Itaparica,1885,1700,Caatinga
+3,"2900306",Acajutiba,BA,181.475006103516,Litoral Norte e Agreste Baiano,1337,1203,Caatinga
+4,"2900355",Adustina,BA,629.098999023438,Semiárido Nordeste II,3249,2744,Caatinga
+5,"2900405",Água Fria,BA,742.775024414062,Portal do Sertão,2165,1705,Caatinga e Mata Atlântica
+6,"2900504",Érico Cardoso,BA,735.2490234375,Bacia do Paramirim,1989,1773,Caatinga
+7,"2900603",Aiquara,BA,167.876998901367,Médio Rio de Contas,329,202,Mata Atlântica
+8,"2900702",Alagoinhas,BA,707.835021972656,Litoral Norte e Agreste Baiano,2546,2113,Caatinga e Mata Atlântica
+9,"2900801",Alcobaça,BA,1477.92895507812,Extremo Sul,1246,1072,Mata Atlântica
+10,"2900900",Almadina,BA,245.235992431641,Litoral Sul,197,107,Mata Atlântica
+11,"2901007",Amargosa,BA,431.654998779297,Vale do Jiquiriçá,2727,2232,Mata Atlântica
+12,"2901106",Amélia Rodrigues,BA,166.871994018555,Portal do Sertão,323,232,Mata Atlântica
+13,"2901155",América Dourada,BA,822.372985839844,Irecê,1301,989,Caatinga
+14,"2901205",Anagé,BA,1899.68298339844,Sudoeste Baiano,2475,2065,Caatinga e Mata Atlântica
+15,"2901304",Andaraí,BA,1590.31604003906,Chapada Diamantina,954,696,Caatinga
+16,"2901353",Andorinha,BA,1362.38598632812,Piemonte Norte do Itapicuru,2401,1799,Caatinga
+17,"2901403",Angical,BA,1530.05004882812,Bacia do Rio Grande,1292,991,Cerrado
+18,"2901502",Anguera,BA,187.839996337891,Portal do Sertão,839,641,Mata Atlântica
+19,"2901601",Antas,BA,319.744995117188,Semiárido Nordeste II,1823,1245,Caatinga
+20,"2901700",Antônio Cardoso,BA,293.529998779297,Portal do Sertão,2064,1336,Caatinga e Mata Atlântica
+21,"2901809",Antônio Gonçalves,BA,345.283996582031,Piemonte Norte do Itapicuru,843,670,Caatinga
+22,"2901908",Aporá,BA,479.261993408203,Litoral Norte e Agreste Baiano,2633,2090,Caatinga e Mata Atlântica
+23,"2901957",Apuarema,BA,150.830001831055,Médio Rio de Contas,416,331,Mata Atlântica
+24,"2902005",Aracatu,BA,1489.80297851562,Sudoeste Baiano,3017,2159,Caatinga
+25,"2902054",Araçás,BA,474.576995849609,Litoral Norte e Agreste Baiano,851,685,Mata Atlântica
+26,"2902104",Araci,BA,1496.24499511719,Sisal,4779,3635,Caatinga
+27,"2902203",Aramari,BA,368.946990966797,Litoral Norte e Agreste Baiano,771,688,Caatinga e Mata Atlântica
+28,"2902252",Arataca,BA,435.962005615234,Litoral Sul,768,597,Mata Atlântica
+29,"2902302",Aratuípe,BA,174.011993408203,Baixo Sul,914,721,Mata Atlântica
+30,"2902401",Aurelino Leal,BA,445.394012451172,Litoral Sul,378,245,Mata Atlântica
+31,"2902500",Baianópolis,BA,3320.72290039062,Bacia do Rio Grande,2130,1578,Cerrado
+32,"2902609",Baixa Grande,BA,967.513977050781,Bacia do Jacuípe,2642,1951,Caatinga
+33,"2902658",Banzaê,BA,409.506988525391,Semiárido Nordeste II,1754,1590,Caatinga
+34,"2902708",Barra,BA,11428.1123046875,Velho Chico,2904,2612,Cerrado e Caatinga
+35,"2902807",Barra da Estiva,BA,1657.41296386719,Chapada Diamantina,3774,2566,Caatinga
+36,"2902906",Barra do Choça,BA,765.935974121094,Sudoeste Baiano,1996,1217,Mata Atlântica
+37,"2903003",Barra do Mendes,BA,1436.29797363281,Irecê,1995,1431,Caatinga
+38,"2903102",Barra do Rocha,BA,214.410995483398,Médio Rio de Contas,461,296,Mata Atlântica
+39,"2903201",Barreiras,BA,8051.27392578125,Bacia do Rio Grande,2192,1204,Cerrado
+40,"2903235",Barro Alto,BA,414.510009765625,Irecê,1866,1455,Caatinga
+41,"2903276",Barrocas,BA,207.296997070312,Sisal,1589,1091,Caatinga
+42,"2903300",Barro Preto,BA,201.585006713867,Litoral Sul,393,257,Mata Atlântica
+43,"2903409",Belmonte,BA,1939.44702148438,Costa do Descobrimento,1397,1113,Mata Atlântica
+44,"2903508",Belo Campo,BA,772.755981445312,Sudoeste Baiano,1272,1153,Caatinga e Mata Atlântica
+45,"2903607",Biritinga,BA,553.762023925781,Sisal,2577,2018,Caatinga
+46,"2903706",Boa Nova,BA,848.856994628906,Médio Rio de Contas,2080,1906,Caatinga e Mata Atlântica
+47,"2903805",Boa Vista do Tupim,BA,2972.10888671875,Piemonte do Paraguaçu,2536,1901,Caatinga
+48,"2903904",Bom Jesus da Lapa,BA,4115.509765625,Velho Chico,3721,3045,Cerrado e Caatinga
+49,"2903953",Bom Jesus da Serra,BA,467.908996582031,Sudoeste Baiano,1570,1433,Caatinga e Mata Atlântica
+50,"2904001",Boninal,BA,896.856994628906,Chapada Diamantina,1114,882,Caatinga
+51,"2904050",Bonito,BA,791.276000976562,Chapada Diamantina,1678,1212,Caatinga
+52,"2904100",Boquira,BA,1426.23303222656,Bacia do Paramirim,3082,2603,Caatinga
+53,"2904209",Botuporã,BA,627.611999511719,Bacia do Paramirim,2223,1634,Caatinga
+54,"2904308",Brejões,BA,518.565979003906,Vale do Jiquiriçá,1428,930,Caatinga e Mata Atlântica
+55,"2904407",Brejolândia,BA,2247.2080078125,Bacia do Rio Corrente,1410,1047,Cerrado
+56,"2904506",Brotas de Macaúbas,BA,2520.81689453125,Velho Chico,1640,1579,Caatinga
+57,"2904605",Brumado,BA,2207.61206054688,Sertão Produtivo,4600,3315,Caatinga
+58,"2904704",Buerarema,BA,219.486999511719,Litoral Sul,571,416,Mata Atlântica
+59,"2904753",Buritirama,BA,4046.73608398438,Bacia do Rio Grande,2211,2073,Cerrado
+60,"2904803",Caatiba,BA,512.435974121094,Médio Sudoeste da Bahia,679,497,Mata Atlântica
+61,"2904852",Cabaceiras do Paraguaçu,BA,222.026000976562,Recôncavo,3118,2484,Mata Atlântica
+62,"2904902",Cachoeira,BA,394.894012451172,Recôncavo,1989,1608,Mata Atlântica
+63,"2905008",Caculé,BA,610.982971191406,Sertão Produtivo,2499,1708,Caatinga
+64,"2905107",Caém,BA,540.908020019531,Piemonte da Diamantina,1035,849,Caatinga
+65,"2905156",Caetanos,BA,767.14599609375,Sudoeste Baiano,1873,1511,Caatinga
+66,"2905206",Caetité,BA,2651.53588867188,Sertão Produtivo,4555,3609,Caatinga
+67,"2905305",Cafarnaum,BA,643.659973144531,Irecê,2227,1651,Caatinga
+68,"2905404",Cairu,BA,448.846008300781,Baixo Sul,26,17,Mata Atlântica
+69,"2905503",Caldeirão Grande,BA,458.311004638672,Piemonte Norte do Itapicuru,1597,1458,Caatinga
+70,"2905602",Camacan,BA,584.848022460938,Litoral Sul,747,610,Mata Atlântica
+71,"2905701",Camaçari,BA,785.421020507812,Metropolitano de Salvador,1175,730,Mata Atlântica
+72,"2905800",Camamu,BA,839.702026367188,Baixo Sul,2692,2228,Mata Atlântica
+73,"2905909",Campo Alegre de Lourdes,BA,2914.5869140625,Sertão do São Francisco,5260,4693,Caatinga
+74,"2906006",Campo Formoso,BA,7161.8271484375,Piemonte Norte do Itapicuru,5840,4842,Caatinga
+75,"2906105",Canápolis,BA,460.388000488281,Bacia do Rio Corrente,1601,1308,Cerrado
+76,"2906204",Canarana,BA,579.726013183594,Irecê,2588,1947,Caatinga
+77,"2906303",Canavieiras,BA,1334.28405761719,Litoral Sul,1560,1169,Mata Atlântica
+78,"2906402",Candeal,BA,447.578002929688,Sisal,891,662,Caatinga e Mata Atlântica
+79,"2906501",Candeias,BA,251.807998657227,Metropolitano de Salvador,454,349,Mata Atlântica
+80,"2906600",Candiba,BA,433.641998291016,Sertão Produtivo,1917,1537,Caatinga
+81,"2906709",Cândido Sales,BA,1169.81396484375,Sudoeste Baiano,1310,883,Mata Atlântica
+82,"2906808",Cansanção,BA,1351.89099121094,Sisal,3579,2937,Caatinga
+83,"2906824",Canudos,BA,3565.376953125,Sertão do São Francisco,1741,1365,Caatinga
+84,"2906857",Capela do Alto Alegre,BA,629.585998535156,Bacia do Jacuípe,1237,922,Caatinga
+85,"2906873",Capim Grosso,BA,464.776000976562,Bacia do Jacuípe,1087,839,Caatinga
+86,"2906899",Caraíbas,BA,805.629028320312,Sudoeste Baiano,1710,1266,Caatinga
+87,"2906907",Caravelas,BA,2377.88891601562,Extremo Sul,1005,752,Mata Atlântica
+88,"2907004",Cardeal da Silva,BA,293.455993652344,Litoral Norte e Agreste Baiano,171,110,Mata Atlântica
+89,"2907103",Carinhanha,BA,2525.90600585938,Velho Chico,2550,2159,Cerrado
+90,"2907202",Casa Nova,BA,9647.072265625,Sertão do São Francisco,7509,5729,Caatinga
+91,"2907301",Castro Alves,BA,713.789001464844,Recôncavo,1662,1547,Mata Atlântica
+92,"2907400",Catolândia,BA,702.504028320312,Bacia do Rio Grande,515,396,Cerrado
+93,"2907509",Catu,BA,426.954986572266,Litoral Norte e Agreste Baiano,989,713,Mata Atlântica
+94,"2907558",Caturama,BA,716.260986328125,Bacia do Paramirim,1797,1547,Caatinga
+95,"2907608",Central,BA,566.973999023438,Irecê,1994,1539,Caatinga
+96,"2907707",Chorrochó,BA,3005.31909179688,Itaparica,1172,1124,Caatinga
+97,"2907806",Cícero Dantas,BA,819.968994140625,Semiárido Nordeste II,4711,3791,Caatinga
+98,"2907905",Cipó,BA,168.330001831055,Semiárido Nordeste II,1213,937,Caatinga
+99,"2908002",Coaraci,BA,274.5,Litoral Sul,362,252,Mata Atlântica
+100,"2908101",Cocos,BA,10140.572265625,Bacia do Rio Corrente,1657,1392,Cerrado
+101,"2908200",Conceição da Feira,BA,164.798004150391,Portal do Sertão,807,606,Mata Atlântica
+102,"2908309",Conceição do Almeida,BA,284.835998535156,Recôncavo,1315,1072,Mata Atlântica
+103,"2908408",Conceição do Coité,BA,1015.25201416016,Sisal,5603,4282,Caatinga
+104,"2908507",Conceição do Jacuípe,BA,114.869003295898,Portal do Sertão,483,385,Caatinga e Mata Atlântica
+105,"2908606",Conde,BA,931.106018066406,Litoral Norte e Agreste Baiano,2195,1276,Mata Atlântica
+106,"2908705",Condeúba,BA,1348.03894042969,Sudoeste Baiano,2730,2217,Caatinga e Mata Atlântica
+107,"2908804",Contendas do Sincorá,BA,977.455017089844,Sertão Produtivo,347,276,Caatinga
+108,"2908903",Coração de Maria,BA,378.420013427734,Portal do Sertão,2583,2081,Caatinga e Mata Atlântica
+109,"2909000",Cordeiros,BA,523.640014648438,Sudoeste Baiano,1371,1126,Caatinga e Mata Atlântica
+110,"2909109",Coribe,BA,2662.81909179688,Bacia do Rio Corrente,1834,1646,Cerrado
+111,"2909208",Coronel João Sá,BA,797.434020996094,Semiárido Nordeste II,2222,1554,Caatinga
+112,"2909307",Correntina,BA,11504.314453125,Bacia do Rio Corrente,3408,2648,Cerrado
+113,"2909406",Cotegipe,BA,4282.77490234375,Bacia do Rio Grande,1913,1444,Cerrado
+114,"2909505",Cravolândia,BA,182.585006713867,Vale do Jiquiriçá,221,195,Mata Atlântica
+115,"2909604",Crisópolis,BA,636.609008789062,Litoral Norte e Agreste Baiano,4237,3627,Caatinga
+116,"2909703",Cristópolis,BA,1052.83703613281,Bacia do Rio Grande,1274,1108,Cerrado
+117,"2909802",Cruz das Almas,BA,139.117004394531,Recôncavo,1436,1255,Mata Atlântica
+118,"2909901",Curaçá,BA,5950.61376953125,Sertão do São Francisco,4655,3602,Caatinga
+119,"2910008",Dário Meira,BA,413.636993408203,Médio Rio de Contas,936,624,Mata Atlântica
+120,"2910057",Dias d'Ávila,BA,183.759002685547,Metropolitano de Salvador,194,119,Mata Atlântica
+121,"2910107",Dom Basílio,BA,689.515991210938,Sertão Produtivo,2053,1833,Caatinga
+122,"2910206",Dom Macedo Costa,BA,94.7779998779297,Recôncavo,507,357,Mata Atlântica
+123,"2910305",Elísio Medrado,BA,179.328994750977,Vale do Jiquiriçá,1266,922,Mata Atlântica
+124,"2910404",Encruzilhada,BA,1890.13305664062,Sudoeste Baiano,1871,1373,Mata Atlântica
+125,"2910503",Entre Rios,BA,1187.76599121094,Litoral Norte e Agreste Baiano,620,369,Mata Atlântica
+126,"2910602",Esplanada,BA,1299.35498046875,Litoral Norte e Agreste Baiano,2493,1616,Mata Atlântica
+127,"2910701",Euclides da Cunha,BA,2025.36804199219,Semiárido Nordeste II,5686,4726,Caatinga
+128,"2910727",Eunápolis,BA,1425.96997070312,Costa do Descobrimento,954,727,Mata Atlântica
+129,"2910750",Fátima,BA,364.419006347656,Semiárido Nordeste II,2480,2045,Caatinga
+130,"2910776",Feira da Mata,BA,1176.11096191406,Velho Chico,1184,881,Cerrado
+131,"2910800",Feira de Santana,BA,1304.42504882812,Portal do Sertão,9191,5693,Caatinga e Mata Atlântica
+132,"2910859",Filadélfia,BA,579.685974121094,Piemonte Norte do Itapicuru,1680,1376,Caatinga
+133,"2910909",Firmino Alves,BA,172.352996826172,Médio Sudoeste da Bahia,207,151,Mata Atlântica
+134,"2911006",Floresta Azul,BA,321.013000488281,Litoral Sul,410,303,Mata Atlântica
+135,"2911105",Formosa do Rio Preto,BA,15634.328125,Bacia do Rio Grande,1352,919,Cerrado
+136,"2911204",Gandu,BA,229.660995483398,Baixo Sul,1227,988,Mata Atlântica
+137,"2911253",Gavião,BA,384.592010498047,Bacia do Jacuípe,592,496,Caatinga
+138,"2911303",Gentio do Ouro,BA,3817.94604492188,Irecê,871,796,Caatinga
+139,"2911402",Glória,BA,1566.60900878906,Itaparica,1498,1296,Caatinga
+140,"2911501",Gongogi,BA,202.194000244141,Médio Rio de Contas,251,173,Mata Atlântica
+141,"2911600",Governador Mangabeira,BA,106.847999572754,Recôncavo,2144,1626,Mata Atlântica
+142,"2911659",Guajeru,BA,872.867004394531,Sudoeste Baiano,1867,1538,Caatinga
+143,"2911709",Guanambi,BA,1272.36596679688,Sertão Produtivo,4417,3559,Caatinga
+144,"2911808",Guaratinga,BA,2189.40405273438,Costa do Descobrimento,2121,1649,Mata Atlântica
+145,"2911857",Heliópolis,BA,313.43798828125,Semiárido Nordeste II,2036,1759,Caatinga
+146,"2911907",Iaçu,BA,2342.4970703125,Piemonte do Paraguaçu,1675,938,Caatinga
+147,"2912004",Ibiassucê,BA,483.273986816406,Sertão Produtivo,1629,1260,Caatinga
+148,"2912103",Ibicaraí,BA,230.953002929688,Litoral Sul,264,157,Mata Atlântica
+149,"2912202",Ibicoara,BA,817.35498046875,Chapada Diamantina,1722,985,Caatinga
+150,"2912301",Ibicuí,BA,1139.37805175781,Médio Sudoeste da Bahia,1061,646,Mata Atlântica
+151,"2912400",Ibipeba,BA,1382.00805664062,Irecê,2207,1647,Caatinga
+152,"2912509",Ibipitanga,BA,954.372985839844,Bacia do Paramirim,2436,1852,Caatinga
+153,"2912608",Ibiquera,BA,698.244995117188,Piemonte do Paraguaçu,582,482,Caatinga
+154,"2912707",Ibirapitanga,BA,472.664001464844,Baixo Sul,2025,1530,Mata Atlântica
+155,"2912806",Ibirapuã,BA,771.098022460938,Extremo Sul,493,341,Mata Atlântica
+156,"2912905",Ibirataia,BA,318.128997802734,Médio Rio de Contas,941,666,Mata Atlântica
+157,"2913002",Ibitiara,BA,1834.001953125,Chapada Diamantina,2178,1702,Caatinga
+158,"2913101",Ibititá,BA,573.033020019531,Irecê,2571,1948,Caatinga
+159,"2913200",Ibotirama,BA,1740.11303710938,Velho Chico,1503,1185,Cerrado e Caatinga
+160,"2913309",Ichu,BA,138.016006469727,Sisal,514,375,Caatinga
+161,"2913408",Igaporã,BA,836.585998535156,Velho Chico,1410,1010,Caatinga
+162,"2913457",Igrapiúna,BA,591.31201171875,Baixo Sul,2245,1783,Mata Atlântica
+163,"2913507",Iguaí,BA,860.223022460938,Médio Sudoeste da Bahia,2013,1598,Mata Atlântica
+164,"2913606",Ilhéus,BA,1588.55505371094,Litoral Sul,3559,2493,Mata Atlântica
+165,"2913705",Inhambupe,BA,1082.28295898438,Litoral Norte e Agreste Baiano,4151,2813,Caatinga e Mata Atlântica
+166,"2913804",Ipecaetá,BA,372.565002441406,Portal do Sertão,3484,2777,Caatinga e Mata Atlântica
+167,"2913903",Ipiaú,BA,280.454010009766,Médio Rio de Contas,866,608,Mata Atlântica
+168,"2914000",Ipirá,BA,3105.28100585938,Bacia do Jacuípe,6199,4917,Caatinga
+169,"2914109",Ipupiara,BA,1055.76000976562,Irecê,1066,899,Caatinga
+170,"2914208",Irajuba,BA,459.046997070312,Vale do Jiquiriçá,442,362,Caatinga e Mata Atlântica
+171,"2914307",Iramaia,BA,1708.11499023438,Chapada Diamantina,945,657,Caatinga
+172,"2914406",Iraquara,BA,991.822021484375,Chapada Diamantina,2987,2360,Caatinga
+173,"2914505",Irará,BA,267.880004882812,Portal do Sertão,3294,2864,Caatinga e Mata Atlântica
+174,"2914604",Irecê,BA,319.174011230469,Irecê,800,604,Caatinga
+175,"2914653",Itabela,BA,924.914001464844,Costa do Descobrimento,660,363,Mata Atlântica
+176,"2914703",Itaberaba,BA,2386.38989257812,Piemonte do Paraguaçu,2996,2178,Caatinga
+177,"2914802",Itabuna,BA,401.028015136719,Litoral Sul,923,601,Mata Atlântica
+178,"2914901",Itacaré,BA,726.265014648438,Litoral Sul,2606,1965,Mata Atlântica
+179,"2915007",Itaeté,BA,1331.82202148438,Chapada Diamantina,1437,1129,Caatinga
+180,"2915106",Itagi,BA,310.621002197266,Médio Rio de Contas,566,419,Mata Atlântica
+181,"2915205",Itagibá,BA,810.992980957031,Médio Rio de Contas,956,617,Mata Atlântica
+182,"2915304",Itagimirim,BA,876.799987792969,Costa do Descobrimento,236,152,Mata Atlântica
+183,"2915353",Itaguaçu da Bahia,BA,4310.23779296875,Irecê,1429,1028,Caatinga
+184,"2915403",Itaju do Colônia,BA,1225.28698730469,Litoral Sul,307,156,Mata Atlântica
+185,"2915502",Itajuípe,BA,270.752014160156,Litoral Sul,632,403,Mata Atlântica
+186,"2915601",Itamaraju,BA,2360.583984375,Extremo Sul,2213,1510,Mata Atlântica
+187,"2915700",Itamari,BA,143.47900390625,Médio Rio de Contas,776,611,Mata Atlântica
+188,"2915809",Itambé,BA,1534.57495117188,Médio Sudoeste da Bahia,1436,881,Mata Atlântica
+189,"2915908",Itanagra,BA,533.633972167969,Litoral Norte e Agreste Baiano,311,188,Mata Atlântica
+190,"2916005",Itanhém,BA,1394.17395019531,Extremo Sul,1514,1158,Mata Atlântica
+191,"2916104",Itaparica,BA,121.373001098633,Metropolitano de Salvador,86,82,Mata Atlântica
+192,"2916203",Itapé,BA,453.144012451172,Litoral Sul,322,169,Mata Atlântica
+193,"2916302",Itapebi,BA,1013.07397460938,Costa do Descobrimento,242,137,Mata Atlântica
+194,"2916401",Itapetinga,BA,1651.15795898438,Médio Sudoeste da Bahia,672,276,Mata Atlântica
+195,"2916500",Itapicuru,BA,1557.68505859375,Litoral Norte e Agreste Baiano,5073,3581,Caatinga
+196,"2916609",Itapitanga,BA,420.662994384766,Litoral Sul,323,250,Mata Atlântica
+197,"2916708",Itaquara,BA,344.092987060547,Vale do Jiquiriçá,586,500,Mata Atlântica
+198,"2916807",Itarantim,BA,1674.02905273438,Médio Sudoeste da Bahia,926,450,Mata Atlântica
+199,"2916856",Itatim,BA,547.510009765625,Piemonte do Paraguaçu,708,464,Caatinga
+200,"2916906",Itiruçu,BA,322.243011474609,Vale do Jiquiriçá,614,445,Mata Atlântica
+201,"2917003",Itiúba,BA,1650.59301757812,Sisal,3432,3038,Caatinga
+202,"2917102",Itororó,BA,313.838989257812,Médio Sudoeste da Bahia,490,364,Mata Atlântica
+203,"2917201",Ituaçu,BA,1199.3740234375,Sertão Produtivo,2652,1909,Caatinga
+204,"2917300",Ituberá,BA,415.428009033203,Baixo Sul,1540,1413,Mata Atlântica
+205,"2917334",Iuiu,BA,1525.14196777344,Sertão Produtivo,1096,821,Cerrado
+206,"2917359",Jaborandi,BA,9955.11328125,Bacia do Rio Corrente,1320,1137,Cerrado
+207,"2917409",Jacaraci,BA,1332.42004394531,Sudoeste Baiano,2493,2123,Caatinga
+208,"2917508",Jacobina,BA,2192.90502929688,Piemonte da Diamantina,2294,1822,Caatinga
+209,"2917607",Jaguaquara,BA,924.512023925781,Vale do Jiquiriçá,2406,2003,Mata Atlântica
+210,"2917706",Jaguarari,BA,2466.00903320312,Piemonte Norte do Itapicuru,2007,1657,Caatinga
+211,"2917805",Jaguaripe,BA,863.424011230469,Baixo Sul,2067,1761,Mata Atlântica
+212,"2917904",Jandaíra,BA,640.77197265625,Litoral Norte e Agreste Baiano,668,394,Mata Atlântica
+213,"2918001",Jequié,BA,2969.0390625,Médio Rio de Contas,2657,1975,Caatinga e Mata Atlântica
+214,"2918100",Jeremoabo,BA,4267.48779296875,Semiárido Nordeste II,4169,3529,Caatinga
+215,"2918209",Jiquiriçá,BA,238.660003662109,Vale do Jiquiriçá,2462,2019,Mata Atlântica
+216,"2918308",Jitaúna,BA,262.049987792969,Médio Rio de Contas,1023,820,Mata Atlântica
+217,"2918357",João Dourado,BA,913.257995605469,Irecê,1347,985,Caatinga
+218,"2918407",Juazeiro,BA,6721.23681640625,Sertão do São Francisco,7288,4402,Caatinga
+219,"2918456",Jucuruçu,BA,1457.65600585938,Extremo Sul,1281,1009,Mata Atlântica
+220,"2918506",Jussara,BA,1355.17297363281,Irecê,1765,1402,Caatinga
+221,"2918555",Jussari,BA,329.190002441406,Litoral Sul,194,108,Mata Atlântica
+222,"2918605",Jussiape,BA,589.763000488281,Chapada Diamantina,809,739,Caatinga
+223,"2918704",Lafaiete Coutinho,BA,498.109985351562,Vale do Jiquiriçá,562,376,Caatinga e Mata Atlântica
+224,"2918753",Lagoa Real,BA,912.221984863281,Sertão Produtivo,2307,1853,Caatinga
+225,"2918803",Laje,BA,449.834014892578,Vale do Jiquiriçá,3942,2978,Mata Atlântica
+226,"2918902",Lajedão,BA,624.35302734375,Extremo Sul,242,183,Mata Atlântica
+227,"2919009",Lajedinho,BA,846.72802734375,Piemonte do Paraguaçu,499,371,Caatinga
+228,"2919058",Lajedo do Tabocal,BA,382.93701171875,Vale do Jiquiriçá,915,799,Caatinga
+229,"2919108",Lamarão,BA,189.25700378418,Sisal,1619,1131,Caatinga
+230,"2919157",Lapão,BA,642.882019042969,Irecê,2432,1761,Caatinga
+231,"2919207",Lauro de Freitas,BA,57.9420013427734,Metropolitano de Salvador,30,17,Mata Atlântica
+232,"2919306",Lençóis,BA,1283.32800292969,Chapada Diamantina,497,277,Caatinga
+233,"2919405",Licínio de Almeida,BA,856.6259765625,Sudoeste Baiano,1458,910,Cerrado
+234,"2919504",Livramento de Nossa Senhora,BA,1952.51000976562,Sertão Produtivo,4636,4069,Caatinga
+235,"2919553",Luís Eduardo Magalhães,BA,4036.09399414062,Bacia do Rio Grande,429,180,Cerrado
+236,"2919603",Macajuba,BA,701.171020507812,Piemonte do Paraguaçu,873,713,Caatinga
+237,"2919702",Macarani,BA,1210.10595703125,Médio Sudoeste da Bahia,344,167,Mata Atlântica
+238,"2919801",Macaúbas,BA,2459.10205078125,Bacia do Paramirim,7189,5799,Caatinga
+239,"2919900",Macururé,BA,2545.85595703125,Itaparica,996,796,Caatinga
+240,"2919926",Madre de Deus,BA,32.201000213623,Metropolitano de Salvador,0,0,Mata Atlântica
+241,"2919959",Maetinga,BA,614.833984375,Sudoeste Baiano,953,816,Caatinga
+242,"2920007",Maiquinique,BA,588.296997070312,Médio Sudoeste da Bahia,385,250,Mata Atlântica
+243,"2920106",Mairi,BA,906.679992675781,Bacia do Jacuípe,2316,1766,Caatinga
+244,"2920205",Malhada,BA,1979.19299316406,Velho Chico,1966,1530,Cerrado
+245,"2920304",Malhada de Pedras,BA,550.549987792969,Sertão Produtivo,1662,1072,Caatinga
+246,"2920403",Manoel Vitorino,BA,2201.76391601562,Médio Rio de Contas,1703,1383,Caatinga e Mata Atlântica
+247,"2920452",Mansidão,BA,3129.587890625,Bacia do Rio Grande,1237,1038,Cerrado
+248,"2920502",Maracás,BA,2413.27001953125,Vale do Jiquiriçá,1465,990,Caatinga e Mata Atlântica
+249,"2920601",Maragogipe,BA,437.609985351562,Recôncavo,4044,3387,Mata Atlântica
+250,"2920700",Maraú,BA,848.885009765625,Litoral Sul,2212,1670,Mata Atlântica
+251,"2920809",Marcionílio Souza,BA,1099.28295898438,Chapada Diamantina,804,617,Caatinga
+252,"2920908",Mascote,BA,742.689025878906,Litoral Sul,567,379,Mata Atlântica
+253,"2921005",Mata de São João,BA,605.168029785156,Metropolitano de Salvador,515,375,Mata Atlântica
+254,"2921054",Matina,BA,773.278015136719,Velho Chico,1361,1249,Caatinga
+255,"2921104",Medeiros Neto,BA,1311.73901367188,Extremo Sul,746,485,Mata Atlântica
+256,"2921203",Miguel Calmon,BA,1599.67199707031,Piemonte da Diamantina,2074,1371,Caatinga
+257,"2921302",Milagres,BA,420.358001708984,Vale do Jiquiriçá,267,201,Caatinga e Mata Atlântica
+258,"2921401",Mirangaba,BA,1751.77795410156,Piemonte da Diamantina,1777,1643,Caatinga
+259,"2921450",Mirante,BA,1172.85998535156,Sudoeste Baiano,1577,1240,Caatinga
+260,"2921500",Monte Santo,BA,3034.19702148438,Sisal,6488,5548,Caatinga
+261,"2921609",Morpará,BA,2093.8720703125,Velho Chico,828,613,Cerrado
+262,"2921708",Morro do Chapéu,BA,5744.96923828125,Chapada Diamantina,2471,2091,Caatinga
+263,"2921807",Mortugaba,BA,528.213989257812,Sudoeste Baiano,1887,1369,Caatinga
+264,"2921906",Mucugê,BA,2462.15307617188,Chapada Diamantina,814,638,Caatinga
+265,"2922003",Mucuri,BA,1787.6259765625,Extremo Sul,987,752,Mata Atlântica
+266,"2922052",Mulungu do Morro,BA,646.620971679688,Irecê,3116,2039,Caatinga
+267,"2922102",Mundo Novo,BA,1491.98999023438,Piemonte do Paraguaçu,1710,1118,Caatinga
+268,"2922201",Muniz Ferreira,BA,104.540000915527,Recôncavo,1025,675,Mata Atlântica
+269,"2922250",Muquém do São Francisco,BA,3852.11108398438,Velho Chico,1488,1162,Cerrado
+270,"2922300",Muritiba,BA,86.3109970092773,Recôncavo,1934,1415,Mata Atlântica
+271,"2922409",Mutuípe,BA,275.85400390625,Vale do Jiquiriçá,3782,3279,Mata Atlântica
+272,"2922508",Nazaré,BA,278.628997802734,Recôncavo,957,715,Mata Atlântica
+273,"2922607",Nilo Peçanha,BA,388.936004638672,Baixo Sul,1660,1368,Mata Atlântica
+274,"2922656",Nordestina,BA,465.407012939453,Sisal,1107,931,Caatinga
+275,"2922706",Nova Canaã,BA,804.617004394531,Médio Sudoeste da Bahia,2136,1615,Mata Atlântica
+276,"2922730",Nova Fátima,BA,346.783996582031,Bacia do Jacuípe,1124,901,Caatinga
+277,"2922755",Nova Ibiá,BA,203.197998046875,Médio Rio de Contas,873,646,Mata Atlântica
+278,"2922805",Nova Itarana,BA,475.381011962891,Vale do Jiquiriçá,647,419,Caatinga e Mata Atlântica
+279,"2922854",Nova Redenção,BA,565.356018066406,Chapada Diamantina,1069,857,Caatinga
+280,"2922904",Nova Soure,BA,966.992980957031,Semiárido Nordeste II,3537,2728,Caatinga
+281,"2923001",Nova Viçosa,BA,1316.37902832031,Extremo Sul,552,446,Mata Atlântica
+282,"2923035",Novo Horizonte,BA,627.5,Chapada Diamantina,878,725,Caatinga
+283,"2923050",Novo Triunfo,BA,278.486999511719,Semiárido Nordeste II,1195,868,Caatinga
+284,"2923100",Olindina,BA,637.317016601562,Litoral Norte e Agreste Baiano,2038,1575,Caatinga
+285,"2923209",Oliveira dos Brejinhos,BA,3313.41796875,Velho Chico,2854,2397,Caatinga
+286,"2923308",Ouriçangas,BA,156.981994628906,Litoral Norte e Agreste Baiano,1048,925,Mata Atlântica
+287,"2923357",Ourolândia,BA,1544.98803710938,Piemonte da Diamantina,1279,1032,Caatinga
+288,"2923407",Palmas de Monte Alto,BA,2560.02709960938,Sertão Produtivo,3214,2516,Cerrado e Caatinga
+289,"2923506",Palmeiras,BA,737.453979492188,Chapada Diamantina,462,377,Caatinga
+290,"2923605",Paramirim,BA,1087.06005859375,Bacia do Paramirim,2991,2206,Caatinga
+291,"2923704",Paratinga,BA,2624.998046875,Velho Chico,3621,3125,Cerrado e Caatinga
+292,"2923803",Paripiranga,BA,442.186004638672,Semiárido Nordeste II,5088,3882,Caatinga
+293,"2923902",Pau Brasil,BA,626.306030273438,Litoral Sul,1039,950,Mata Atlântica
+294,"2924009",Paulo Afonso,BA,1544.38793945312,Itaparica,1797,1454,Caatinga
+295,"2924058",Pé de Serra,BA,596.77099609375,Bacia do Jacuípe,1677,1384,Caatinga
+296,"2924108",Pedrão,BA,158.488006591797,Litoral Norte e Agreste Baiano,656,613,Mata Atlântica
+297,"2924207",Pedro Alexandre,BA,889.572021484375,Semiárido Nordeste II,1788,1141,Caatinga
+298,"2924306",Piatã,BA,1825.85705566406,Chapada Diamantina,1991,1572,Caatinga
+299,"2924405",Pilão Arcado,BA,11597.9228515625,Sertão do São Francisco,5178,4860,Cerrado e Caatinga
+300,"2924504",Pindaí,BA,628.468017578125,Sertão Produtivo,2512,2052,Cerrado
+301,"2924603",Pindobaçu,BA,495.845001220703,Piemonte Norte do Itapicuru,986,650,Caatinga
+302,"2924652",Pintadas,BA,647.143981933594,Bacia do Jacuípe,1483,1159,Caatinga
+303,"2924678",Piraí do Norte,BA,193.427001953125,Baixo Sul,2360,1018,Mata Atlântica
+304,"2924702",Piripá,BA,511.756011962891,Sudoeste Baiano,1031,804,Caatinga e Mata Atlântica
+305,"2924801",Piritiba,BA,980.328002929688,Piemonte do Paraguaçu,1582,1020,Caatinga
+306,"2924900",Planaltino,BA,955.453979492188,Vale do Jiquiriçá,961,844,Caatinga e Mata Atlântica
+307,"2925006",Planalto,BA,769,Sudoeste Baiano,1571,1224,Caatinga e Mata Atlântica
+308,"2925105",Poções,BA,937.85498046875,Sudoeste Baiano,2496,1902,Caatinga e Mata Atlântica
+309,"2925204",Pojuca,BA,314.932006835938,Metropolitano de Salvador,379,293,Mata Atlântica
+310,"2925253",Ponto Novo,BA,530.143981933594,Piemonte Norte do Itapicuru,1431,1232,Caatinga
+311,"2925303",Porto Seguro,BA,2285.73388671875,Costa do Descobrimento,1538,1040,Mata Atlântica
+312,"2925402",Potiraguá,BA,1111.56701660156,Médio Sudoeste da Bahia,299,108,Mata Atlântica
+313,"2925501",Prado,BA,1692.09997558594,Extremo Sul,1165,887,Mata Atlântica
+314,"2925600",Presidente Dutra,BA,232.063995361328,Irecê,2292,1684,Caatinga
+315,"2925709",Presidente Jânio Quadros,BA,1208.54895019531,Sudoeste Baiano,2104,1937,Caatinga
+316,"2925758",Presidente Tancredo Neves,BA,441.820007324219,Baixo Sul,4412,3433,Mata Atlântica
+317,"2925808",Queimadas,BA,2011.06005859375,Sisal,2311,1613,Caatinga
+318,"2925907",Quijingue,BA,1380.79797363281,Sisal,4268,3557,Caatinga
+319,"2925931",Quixabeira,BA,366.386993408203,Bacia do Jacuípe,980,801,Caatinga
+320,"2925956",Rafael Jambeiro,BA,1090.55200195312,Piemonte do Paraguaçu,3085,2176,Caatinga e Mata Atlântica
+321,"2926004",Remanso,BA,4573.5048828125,Sertão do São Francisco,3713,3217,Caatinga
+322,"2926103",Retirolândia,BA,242.328994750977,Sisal,1310,945,Caatinga
+323,"2926202",Riachão das Neves,BA,5977.93115234375,Bacia do Rio Grande,1628,1215,Cerrado
+324,"2926301",Riachão do Jacuípe,BA,1155.41796875,Bacia do Jacuípe,2509,1780,Caatinga e Mata Atlântica
+325,"2926400",Riacho de Santana,BA,3183.91088867188,Velho Chico,3864,3160,Cerrado e Caatinga
+326,"2926509",Ribeira do Amparo,BA,644.22900390625,Semiárido Nordeste II,2769,2373,Caatinga
+327,"2926608",Ribeira do Pombal,BA,1252.14404296875,Semiárido Nordeste II,5010,4128,Caatinga
+328,"2926657",Ribeirão do Largo,BA,1363.69995117188,Sudoeste Baiano,1598,1213,Mata Atlântica
+329,"2926707",Rio de Contas,BA,1115.251953125,Chapada Diamantina,1358,1016,Caatinga
+330,"2926806",Rio do Antônio,BA,777.903015136719,Sertão Produtivo,2454,2060,Caatinga
+331,"2926905",Rio do Pires,BA,656.223022460938,Bacia do Paramirim,1406,1126,Caatinga
+332,"2927002",Rio Real,BA,739.775024414062,Litoral Norte e Agreste Baiano,3434,2069,Caatinga e Mata Atlântica
+333,"2927101",Rodelas,BA,2207.15893554688,Itaparica,997,789,Caatinga
+334,"2927200",Ruy Barbosa,BA,1991.77197265625,Piemonte do Paraguaçu,1775,1320,Caatinga
+335,"2927309",Salinas da Margarida,BA,150.569000244141,Recôncavo,87,47,Mata Atlântica
+336,"2927408",Salvador,BA,693.442016601562,Metropolitano de Salvador,50,33,Mata Atlântica
+337,"2927507",Santa Bárbara,BA,347.02099609375,Portal do Sertão,1411,1109,Caatinga e Mata Atlântica
+338,"2927606",Santa Brígida,BA,934.460998535156,Semiárido Nordeste II,2136,1775,Caatinga
+339,"2927705",Santa Cruz Cabrália,BA,1462.94201660156,Costa do Descobrimento,884,567,Mata Atlântica
+340,"2927804",Santa Cruz da Vitória,BA,284.0830078125,Médio Sudoeste da Bahia,215,159,Mata Atlântica
+341,"2927903",Santa Inês,BA,379.269989013672,Vale do Jiquiriçá,145,116,Mata Atlântica
+342,"2928000",Santaluz,BA,1623.44494628906,Sisal,2589,1943,Caatinga
+343,"2928059",Santa Luzia,BA,824.473022460938,Litoral Sul,1176,843,Mata Atlântica
+344,"2928109",Santa Maria da Vitória,BA,1984.91003417969,Bacia do Rio Corrente,2719,2205,Cerrado
+345,"2928208",Santana,BA,1909.35302734375,Bacia do Rio Corrente,2287,1897,Cerrado
+346,"2928307",Santanópolis,BA,222.686004638672,Portal do Sertão,1323,1077,Caatinga
+347,"2928406",Santa Rita de Cássia,BA,6030.4912109375,Bacia do Rio Grande,2368,1927,Cerrado
+348,"2928505",Santa Terezinha,BA,719.257019042969,Piemonte do Paraguaçu,616,531,Caatinga e Mata Atlântica
+349,"2928604",Santo Amaro,BA,494.502014160156,Recôncavo,2963,2604,Caatinga
+350,"2928703",Santo Antônio de Jesus,BA,261.739990234375,Recôncavo,2715,1996,Mata Atlântica
+351,"2928802",Santo Estêvão,BA,360.334014892578,Portal do Sertão,4973,3769,Caatinga e Mata Atlântica
+352,"2928901",São Desidério,BA,15156.7119140625,Bacia do Rio Grande,2305,1721,Cerrado
+353,"2928950",São Domingos,BA,289.963012695312,Sisal,842,639,Caatinga
+354,"2929008",São Félix,BA,103.225997924805,Recôncavo,987,868,Mata Atlântica
+355,"2929057",São Félix do Coribe,BA,1751.67102050781,Bacia do Rio Corrente,982,809,Cerrado
+356,"2929107",São Felipe,BA,222.406997680664,Recôncavo,2143,1783,Mata Atlântica
+357,"2929206",São Francisco do Conde,BA,269.714996337891,Metropolitano de Salvador,370,276,Mata Atlântica
+358,"2929255",São Gabriel,BA,1146.05395507812,Irecê,2038,1454,Caatinga
+359,"2929305",São Gonçalo dos Campos,BA,294.768005371094,Portal do Sertão,2279,1411,Caatinga e Mata Atlântica
+360,"2929354",São José da Vitória,BA,127.925003051758,Litoral Sul,249,185,Mata Atlântica
+361,"2929370",São José do Jacuípe,BA,362.364990234375,Bacia do Jacuípe,826,642,Caatinga
+362,"2929404",São Miguel das Matas,BA,230.906005859375,Vale do Jiquiriçá,1981,1538,Mata Atlântica
+363,"2929503",São Sebastião do Passé,BA,536.677978515625,Metropolitano de Salvador,1166,860,Mata Atlântica
+364,"2929602",Sapeaçu,BA,131.218002319336,Recôncavo,1760,1386,Mata Atlântica
+365,"2929701",Sátiro Dias,BA,949.223022460938,Litoral Norte e Agreste Baiano,2325,1844,Caatinga
+366,"2929750",Saubara,BA,166.427993774414,Recôncavo,94,69,Mata Atlântica
+367,"2929800",Saúde,BA,509.097991943359,Piemonte da Diamantina,870,710,Caatinga
+368,"2929909",Seabra,BA,2402.169921875,Chapada Diamantina,3253,2721,Caatinga
+369,"2930006",Sebastião Laranjeiras,BA,1984.51098632812,Sertão Produtivo,1404,994,Cerrado e Caatinga
+370,"2930105",Senhor do Bonfim,BA,789.361022949219,Piemonte Norte do Itapicuru,1487,1195,Caatinga
+371,"2930154",Serra do Ramalho,BA,2340.68408203125,Velho Chico,2927,2517,Cerrado
+372,"2930204",Sento Sé,BA,11980.171875,Sertão do São Francisco,2248,2111,Caatinga
+373,"2930303",Serra Dourada,BA,1592.24499511719,Bacia do Rio Corrente,2141,1783,Cerrado
+374,"2930402",Serra Preta,BA,595.296997070312,Bacia do Jacuípe,1760,1250,Caatinga e Mata Atlântica
+375,"2930501",Serrinha,BA,583.314025878906,Sisal,5841,3867,Caatinga
+376,"2930600",Serrolândia,BA,322.022003173828,Piemonte da Diamantina,1080,767,Caatinga
+377,"2930709",Simões Filho,BA,201.52799987793,Metropolitano de Salvador,355,230,Mata Atlântica
+378,"2930758",Sítio do Mato,BA,1627.80603027344,Velho Chico,1370,1264,Cerrado
+379,"2930766",Sítio do Quinto,BA,684.088989257812,Semiárido Nordeste II,2839,2510,Caatinga
+380,"2930774",Sobradinho,BA,1355.97204589844,Sertão do São Francisco,561,351,Caatinga
+381,"2930808",Souto Soares,BA,1026.63403320312,Chapada Diamantina,2458,1920,Caatinga
+382,"2930907",Tabocas do Brejo Velho,BA,1437.18896484375,Bacia do Rio Corrente,1701,1275,Cerrado
+383,"2931004",Tanhaçu,BA,1277.51403808594,Sertão Produtivo,2737,2067,Caatinga
+384,"2931053",Tanque Novo,BA,729.515991210938,Sertão Produtivo,2612,2267,Caatinga
+385,"2931103",Tanquinho,BA,243.839004516602,Portal do Sertão,568,414,Caatinga e Mata Atlântica
+386,"2931202",Taperoá,BA,454.080993652344,Baixo Sul,1678,1489,Mata Atlântica
+387,"2931301",Tapiramutá,BA,714.690979003906,Piemonte do Paraguaçu,806,582,Caatinga
+388,"2931350",Teixeira de Freitas,BA,1165.62194824219,Extremo Sul,967,638,Mata Atlântica
+389,"2931400",Teodoro Sampaio,BA,244.613006591797,Portal do Sertão,192,133,Mata Atlântica
+390,"2931509",Teofilândia,BA,351.891998291016,Sisal,1961,1347,Caatinga
+391,"2931608",Teolândia,BA,289.782012939453,Baixo Sul,1931,1658,Mata Atlântica
+392,"2931707",Terra Nova,BA,193.240997314453,Portal do Sertão,154,118,Mata Atlântica
+393,"2931806",Tremedal,BA,2010.31604003906,Sudoeste Baiano,2542,2219,Caatinga e Mata Atlântica
+394,"2931905",Tucano,BA,2198.23706054688,Sisal,5007,4315,Caatinga
+395,"2932002",Uauá,BA,3060.11596679688,Sertão do São Francisco,3215,2917,Caatinga
+396,"2932101",Ubaíra,BA,659.080017089844,Vale do Jiquiriçá,3045,2623,Mata Atlântica
+397,"2932200",Ubaitaba,BA,181.102005004883,Litoral Sul,272,211,Mata Atlântica
+398,"2932309",Ubatã,BA,177.643005371094,Médio Rio de Contas,607,425,Mata Atlântica
+399,"2932408",Uibaí,BA,545.297973632812,Irecê,1837,1288,Caatinga
+400,"2932457",Umburanas,BA,1775.63305664062,Piemonte da Diamantina,1367,907,Caatinga
+401,"2932507",Una,BA,1126.73303222656,Litoral Sul,1870,1473,Mata Atlântica
+402,"2932606",Urandi,BA,902.401977539062,Sertão Produtivo,2076,1771,Cerrado e Caatinga
+403,"2932705",Uruçuca,BA,510.097991943359,Litoral Sul,1376,1114,Mata Atlântica
+404,"2932804",Utinga,BA,633.760009765625,Chapada Diamantina,1049,871,Caatinga
+405,"2932903",Valença,BA,1123.97497558594,Baixo Sul,5866,4881,Mata Atlântica
+406,"2933000",Valente,BA,394.877014160156,Sisal,1511,1191,Caatinga
+407,"2933059",Várzea da Roça,BA,468.407012939453,Bacia do Jacuípe,2272,2028,Caatinga
+408,"2933109",Várzea do Poço,BA,206.477996826172,Bacia do Jacuípe,586,471,Caatinga
+409,"2933158",Várzea Nova,BA,1225.89196777344,Piemonte da Diamantina,1542,1395,Caatinga
+410,"2933174",Varzedo,BA,221.399002075195,Recôncavo,1354,1163,Mata Atlântica
+411,"2933208",Vera Cruz,BA,297.536987304688,Metropolitano de Salvador,231,155,Mata Atlântica
+412,"2933257",Vereda,BA,782.158996582031,Extremo Sul,284,194,Mata Atlântica
+413,"2933307",Vitória da Conquista,BA,3254.18603515625,Sudoeste Baiano,6548,4681,Mata Atlântica
+414,"2933406",Wagner,BA,522.369995117188,Chapada Diamantina,724,554,Caatinga
+415,"2933455",Wanderley,BA,2920.5791015625,Bacia do Rio Grande,1660,1053,Cerrado
+416,"2933505",Wenceslau Guimarães,BA,655.057006835938,Baixo Sul,3446,2883,Mata Atlântica
+417,"2933604",Xique-Xique,BA,5079.662109375,Irecê,2453,2176,Cerrado e Caatinga
