@@ -18,8 +18,8 @@ mun_csv = pd.read_csv('basedados/base_municipios2022.csv')
 
 
 
-mun_csv = mun_csv.rename(columns = {'NM_MUN': 'Município', 
-                                    'TER_IDENT': 'Território', 
+mun_csv = mun_csv.rename(columns = {'nm_mun': 'Município', 
+                                    'ter_ident': 'Território', 
                                     'est_agrico': 'Estabelecimentos Agropecuarios', 
                                     'est_agricf': 'Estabelecimentos Familiares', 'biomapredo': 'Bioma'})
 
